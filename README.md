@@ -17,7 +17,7 @@
 ---------------------------------------------
 
 ## 请使用 `git clone --depth=1 https://github.com/Water-OR/项目名` 来克隆
-## 请使用 `git lfs track "*.zip"` 来添加超过 $100MiB$ 的文件
+## 请使用 `git lfs track "*.zip"` 来添加超过 $ 100 $$ MiB $ 的文件
 ## 请使用下面的语句来登录:
 ```txt
 git config --global user.email
