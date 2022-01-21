@@ -1,0 +1,1172 @@
+;
+; Auto generated file by doc2langs (bandizip7)
+; 
+; DO NOT MODIFY THIS FILE MANUALLY!!!
+; 
+; If you want to modify this file, please visit https://go.bandi.so/apptranslation for more information.
+;
+
+[GENERAL]
+LANG_NAME                               = Ελληνικά
+TRANSLATORS                             = George Georgiou
+
+
+[TEXT]
+TEXT_BUILDNO                            = Build#
+TEXT_FILE                               = Αρχείo
+TEXT_FOLDER                             = Φάκελος
+TEXT_ARCHIVE_SIZE                       = Μέγεθος αρχείου
+TEXT_ORIGINAL_SIZE                      = Αρχικό μέγεθος
+TEXT_ARCHIVE_FORMAT                     = Τύπος αρχείου
+TEXT_COMPRESSED_SIZE                    = Συμπιεσμένο μέγεθος
+TEXT_SOLID                              = Σταθερή
+TEXT_BETA                               = Beta
+TEXT_ASSOC                              = Συμπιεσμένο αρχείο (${str1})
+TEXT_PORTABLE                           = Portable
+TEXT_NEW_FOLDER                         = Νέος φάκελος
+TEXT_FILESIZE_UNKNOWN                   = Άγνωστο
+TEXT_FILEDATE_UNKNOWN                   = Άγνωστο
+TEXT_HELP_LINK                          = [Βοήθεια]
+TEXT_APP_DESC                           = To Bandizip είναι ένα ελαφρύ, γρήγορο και δωρεάν όλα-σε-ένα πρόγραμμα αρχειοθέτησης. Χειρίζεται τις πιο δημοφιλείς μορφές αρχείων συμπίεσης, συμπεριλαμβανομένων των Zip, 7z, Rar, κλπ.
+
+TEXT_MESSAGEBOX_OK                      = OK
+TEXT_MESSAGEBOX_CANCEL                  = Άκυρο
+TEXT_MESSAGEBOX_ABORT                   = Ματαίωση
+TEXT_MESSAGEBOX_RETRY                   = Επανάληψη
+TEXT_MESSAGEBOX_IGNORE                  = Παράβλεψη
+TEXT_MESSAGEBOX_YES                     = Ναι
+TEXT_MESSAGEBOX_NO                      = Όχι
+TEXT_MESSAGEBOX_CONTINUE                = Συνέχεια
+TEXT_MESSAGEBOX_HELP                    = Βοήθεια
+TEXT_MESSAGEBOX_DONOTSHOWTHISMSGAGAIN   = Να μην εμφανιστεί αυτό ξανά
+
+TEXT_COLUMN_NAME                        = Όνομα
+TEXT_COLUMN_COMPSIZE                    = Συμπιεσμένο
+TEXT_COLUMN_ORIGSIZE                    = Αρχικό
+TEXT_COLUMN_KIND                        = Τύπος
+TEXT_COLUMN_DATE_MOD                    = Τροποποιημένο
+TEXT_COLUMN_COMPMETHOD                  = Μέθοδος συμπίεσης
+TEXT_COLUMN_ENCRMETHOD                  = Μέθοδος κρυπτογράφησης
+TEXT_COLUMN_CRC                         = CRC
+TEXT_COLUMN_ATTRIB                      = Χαρακτηριστικά
+TEXT_COLUMN_COMMENT                     = Σχόλιο
+TEXT_COLUMN_EXT                         = Πρόσθετες πληροφορίες
+TEXT_COLUMN_PATHNAME                    = Διαδρομή
+
+TEXT_ICONPACK_NAME                      = Όνομα
+TEXT_ICONPACK_DESIGNER                  = Σχεδιαστής
+TEXT_ICONPACK_COPYRIGHT                 = Copyright
+
+TEXT_ARCHIVE_COLUMN_NAME                = Όνομα
+TEXT_ARCHIVE_COLUMN_FILESIZE            = Μέγεθος
+TEXT_ARCHIVE_COLUMN_FOLDERPATH          = Διαδρομή
+TEXT_ARCHIVEDLG_FILESIZE_SUM            = Συνολικό μέγεθος
+
+TEXT_SELECT_ARCHIVE_FILE                = Επιλέξτε αρχείο
+TEXT_SELECT_TEXT_FILE                   = auswählen
+TEXT_SELECT_DEST_FOLDER                 = Επιλέξτε το φάκελο προορισμού
+TEXT_SELECT_ARCHIVE_FILE_FILETERNAME    = Αρχείο συμπίεσης
+TEXT_REGISTRY_FILE                      = Αρχείο μητρώου
+
+TEXT_OPENDLG_ARCHIVEFILES               = Αρχεία συμπίεσης
+TEXT_OPENDLG_ARCHIVEFILE                = Αρχείο συμπίεσης
+TEXT_OPENDLG_ALLFILES                   = Όλα τα αρχεία
+TEXT_OPENDLG_EXEFILES                   = Αρχεία Exe
+
+TEXT_ABOUTBOX_TAB1                      = Περί του Bandizip
+
+TEXT_ASSOC_GROUP0                       = Αρχεία συμπίεσης
+TEXT_ASSOC_GROUP1                       = UNIX
+TEXT_ASSOC_GROUP2                       = Άλλα
+TEXT_ASSOC_GROUP3                       = CD/DVD
+
+TEXT_OPENERR_INVALIDVERSION             = Για να ανοίξετε αυτό το αρχείο, κατεβάστε την τελευταία έκδοση του Bandizip
+TEXT_OPENERR_NOT_A_FIRST_VOLUME_FILE    = Επιλέξτε το πρώτο μέρος του διαιρεμένου αρχείου
+TEXT_OPENERR_CANT_OPEN_FILE             = Αδυναμία ανοίγματος αρχείου (${str1})
+TEXT_OPENERR_CANT_OPEN_FILE_LOCKED      = Αδυναμία ανοίγματος αρχείου (${str1}) γιατί χρησιμοποιείται από άλλο πρόγραμμα
+TEXT_OPENERR_GENERAL                    = Αδυναμία ανοίγματος αρχείου (${str1}) (Code:${xnum1})
+TEXT_OPENERR_USER_ABORT                 = Ακυρώθηκε
+TEXT_OPENERR_UNKNOWN_FILEFORMAT         = Άγνωστος τύπος αρχείου (${str1})
+TEXT_OPENERR_NOT_ARCHIVE_FILE           = Αυτό δεν είναι αρχείο συμπίεσης (${str1})
+TEXT_OPENERR_NOT_SUPPORTED_FILEFORMAT   = Μη υποστηριζόμενος τύπος αρχείου (${str1})
+TEXT_OPENERR_NOT_SUPPORTED_ENC_METHOD   = Μη υποστηριζόμενη μέθοδος κωδικοποίησης (${str1})
+TEXT_OPENERR_PASSWORD_NOT_SET           = Εισάγετε κωδικό
+TEXT_OPENERR_INVALID_PASSWORD           = Εσφαλμένος κωδικός
+TEXT_OPENERR_INVALID_CONTAINER_HEADER   = Δεν μπορείτε να ανοίξετε αυτό το αρχείο, επειδή η κεφαλίδα του αρχείου είναι χαλασμένη
+
+TEXT_ERR_INIT_FAILED                    = Αδυναμία αρχικοποίησης
+TEXT_ERR_NOFILE_OR_INVALIDPASS          = Ο κωδικός πρόσβασης είναι εσφαλμένος ή το αρχείο είναι κενό.
+TEXT_ERR_PASSOWRD_NOT_MATCH             = Οι κωδικοί δεν ταιριάζουν
+TEXT_ERR_PASSWORD_NOT_SET               = Εισάγετε κωδικό
+TEXT_ERR_INVALID_PASSWORD_CHAR          = Εισάγατε μη αποδεκτό χαρακτήρα. Βάλτε γράμμα/αριθμό/σύμβολο
+TEXT_ERR_INVALID_SPLIT_FILE_SIZE        = Ανύπαρκτο μέγεθος αρχείου διαίρεσης
+TEXT_ERR_SFX_SPLIT_SIZE_4G_LIMIT        = Το μέγεθος των αρχείων SFX (Self Extracting Archives) περιορίζεται σε 4GB.
+TEXT_ERR_INTERNAL_ERROR                 = Εσωτερικό σφάλμα
+TEXT_ERR_CANT_MODIFY_ARCHIVE            = Αδυναμία τροποποίησης αρχείου συμπίεσης
+TEXT_ERR_OCCURRED_WHEN_MODIFY_ARCHIVE   = Σφάλμα κατά την τροποποίηση του αρχείου συμπίεσης
+TEXT_ERR_INVALID_FOLDER_PATH            = Ανύπαρκτη διαδρομή φακέλου
+TEXT_ERR_EDIT_ZIPFILE_ONLY_SUPPORTED    = Μόνο αρχεία ZIP μπορούν να επεξεργαστούν
+TEXT_ERR_EDIT_SINGLEFILE_ONLY_SUPPORTED = Δε μπορεί να επεξεργασθεί διαιρεμένο αρχείο
+TEXT_ERR_EDIT_SFX_NOT_SUPPORTED         = Δε μπορεί να επεξεργασθεί αυτοαποσυμπιεζόμενο αρχείο (*.exe)
+TEXT_ERR_EDIT_BROKENARCH_NOT_SUPPORTED  = Δε μπορεί να επεξεργασθεί κατεστραμμένο αρχείο
+TEXT_ERR_EDIT_NOT_SUPPORTED_ARCHIVE     = Δε μπορεί να επεξεργασθεί αυτό το αρχείο/επέκταση...
+TEXT_ERR_CANT_CHANGE_FILENAME           = Αδυναμία αλλαγής ονόματος αρχείου
+TEXT_ERR_CANT_CHANGE_FILENAME_WITH      = "Δε μπορεί να υπάρχει στο όνομα αρχείου [br]? : \ / * < > | ""
+TEXT_ERR_CANT_CHANGE_FILENAME_SAMENAME  = Υπάρχει ήδη ο φάκελος/αρχείο. Αδυναμία αλλαγής ονόματος αρχείου (${str1})
+TEXT_ERR_CANT_CREATE_FOLDER             = Αδυναμία δημιουργίας φακέλου
+TEXT_ERR_NO_FILES_TO_ARCHIVE            = Κενό αρχείο συμπίεσης
+TEXT_ERR_INVALID_PARAM                  = Ανύπαρκτη παράμετρος.
+TEXT_ERR_CANT_ADD_TO_ARCHIVE            = Αδυναμία προσθήκης στο αρχείο συμπίεσης. [br] - ${str1}
+TEXT_ERR_CANT_OPEN_THIS_ARCHIVE         = Αδυναμία ανοίγματος αρχείου συμπίεσης [br] - ${str1}
+TEXT_ERR_SAME_NAME_FOLDER_EXIST         = Ο ίδιος φάκελος υπάρχει
+TEXT_ERR_FILENAME_EMPTY                 = Λάθος όνομα αρχείου
+TEXT_ERR_AT_DRAGANDDROP                 = Αποτυχία μεταφοράς και απόθεσης
+TEXT_ERR_AT_DRAGANDDROP_OFF_FAST_DND    = Η μεταφορά και απόθεση απέτυχε. [br]To Bandizip έχει απενεργοποιήσει τη λειτουργία «Γρήγορη μεταφορά και απόθεση», παρακαλώ προσπαθήστε ξανά.
+TEXT_ERR_AT_CANT_OPEN_MMF               = Αδυναμία ανοίγματος MMF (mmf:${str1})
+TEXT_ERR_NO_FILES_SELECTED              = Δεν επιλέχθηκε αρχείο
+TEXT_ERR_ICONPACK_CANTCREATEFOLDER      = Αδυναμία δημιουργίας φακέλου εγκατάστασης πακέτου εικονιδίων
+TEXT_ERR_ICONPACK_CANTCREATEFILE        = Αδυναμία δημιουργίας αρχείου εγκατάστασης πακέτου εικονιδίων
+TEXT_ERR_AT_EXECUTE_DIRECT              = Δεν είναι δυνατό το άνοιγμα αυτού του αρχείου. Αποσυμπιέστε το αρχείο και προσπαθήστε ξανά
+TEXT_ERR_FILESIZE_OVER_4GB_INCLUDED     = Δεν είναι δυνατή η δημιουργία ενός αρχείου μεγαλύτερου από 4GB.[br]Παρακαλώ επιλέξτε μια διαφορετική μορφή αρχείου (ZIP ή 7Z)
+TEXT_ERR_CANT_SAVE_AS                   = Δεν μπορείτε να αποθηκεύσετε αυτό το αρχείο.
+TEXT_ERR_ERROR_AT_EDIT                  = Το Bandizip αντιμετώπισε ένα πρόβλημα κατά την επεξεργασία του αρχείου.(${str1})[br][br]Θα θέλατε να στείλετε μια αναφορά σφάλματος στη Bandisoft;[br][br]Η υποβολή της έκθεσης βοηθά την Bandisoft στην βελτίωση του Bandizip.
+
+TEXT_MSG_TEST_OK                        = Δεν υπάρχουν σφάλματα στο αρχείο συμπίεσης
+TEXT_MSG_EXTRACT_FAIL_WITH_ERRCODE      = Η εξαγωγή απέτυχε: Κωδικός σφάλματος [br](${str1})
+TEXT_MSG_EXTRACT_SUCCESS                = Η εξαγωγή ολοκληρώθηκε
+TEXT_MSG_EXTRACT_CANCELED               = Η εξαγωγή ακυρώθηκε
+TEXT_MSG_COMPRESS_SUCCESS               = Ολοκλήρωση συμπίεσης
+TEXT_MSG_INTERNAL_ERROR                 = Εσωτερικό σφάλμα
+TEXT_MSG_TEMP_FILE_NOT_EXIST            = Δεν μπορεί να ανοίξει το παρακάτω αρχείο στο φάκελο temp:[br](${str1})
+TEXT_MSG_CANT_DELETE_ARCHIVE            = Αδυναμία διαγραφής αρχείου συμπίεσης
+TEXT_MSG_CRASH_REPORT                   = Το πρόγραμμα αντιμετώπισε ένα πρόβλημ ακαι πρέπει να κλείσει.
+TEXT_MSG_CRASH_REPORT2                  = Το Bandizip αντιμετώπισε πρόβλημα και πρέπει να κλείσει. Θέλετε να στείλετε μια αναφορά σφάλματος στον προγραμματιστή του Bandizip;
+TEXT_MSG_CRASH_REPORT3                  = Το παρακάτω DLL προκαλεί πρόβλημα και πρέπει να κλείσει.[br]Θέλετε να στείλετε μια αναφορά σφαλμάτων στον προγραμματιστή Bandizip;
+TEXT_MSG_HANGAPP_REPORT                 = Το Bandizip δεν ανταποκρίνεται.[br][br]Θέλετε να στείλετε μια αναφορά σφάλματος για το Bandizip στον προγραμματιστή και να κλείσετε το πρόγραμμα;
+TEXT_MSG_SET_TEMP_PATH                  = Ορίστε προσωρινή διαδρομή
+TEXT_MSG_SET_PATH                       = Ορίστε διαδρομή
+TEXT_MSG_ICONPACK_INSTALL_COMPLETED     = Το πακέτο εικονιδίων εγκαταστάθηκε
+TEXT_MSG_NOTICE_RESTART                 = Το πρόγραμμα θα επανεκκινήσει
+TEXT_MSG_ARCHVIE_OPENING                = Άνοιγμα αρχείου συμπίεσης
+TEXT_MSG_COMPLETING                     = Ολοκληρώθηκε: ${num1}%
+TEXT_MSG_CANT_CREATE_FOLDER             = Δεν είναι δυνατή η δημιουργία φακέλου.[br] - ${str1}
+TEXT_MSG_GX_XZ_CANT_ARCHIVE_FOLDER      = Δεν μπορεί να γίνει συμπίεση φακέλου σε αρχείο .GZ/XZ
+TEXT_MSG_GX_XZ_CANT_ARCHIVE_MULTI       = Δεν μπορεί να γίνει συμπίεση πολλών αρχείων σε αρχείο .GZ/XZ. Παρακαλούμε τσεκάρετε την επιλογή «Συμπίεση για κάθε όνομα αρχείου/φακέλου».
+TEXT_MSG_TRAY_MINIMIZED                 = Το Bandizip έχει ελαχιστοποιηθεί στη γραμμή ειδοποιήσεων. Κκάντε κλικ στο εικονίδιο του για να το επαναφέρετε.
+TEXT_MSG_TRAY_COMPLETED                 = Η εργασία έχει ολοκληρωθεί.
+TEXT_MSG_BATCH_ARCHVING                 = Συμπίεση: ${str1}
+TEXT_MSG_BATCH_EXTRACTING               = Εξαγωγή: ${str1}
+TEXT_MSG_BATCH_TESTING                  = - Δοκιμή: ${str1}
+TEXT_MSG_BATCH_DELETING                 = - Διαγραφή: ${str1}
+TEXT_MSG_BATCH_DEL_FAILED               = - Αδυναμία διαγραφής: ${str1}
+TEXT_MSG_WORK_IN_PROGRESS               = Έργασία σε εξέλιξη...
+
+TEXT_NOTICE_AUTODETECTCODEPAGE          = Εάν οι χαρακτήρες δεν εμφανίζονται σωστά, κάντε κλικ στο <font color=red><b>Code Page</b></font> παραπάνω και στη συνέχεια δοκιμάστε το <font color=red><b>Auto detect</b></font>menu.
+
+TEXT_ASK_DELETE_ARCHIVE                 = Το αρχικό αρχείο θα διαγραφεί.[br]Θέλετε να το διαγράψετε;
+TEXT_ASK_DELETE_CUR_ARCHIVE             = Θέλετε να διαγράψετε το τρέχον αρχείο;
+TEXT_ASK_PERM_DELETE_CUR_ARCHIVE        = Θέλετε να διαγράψετε το τρέχον αρχείο μόνιμα;
+TEXT_ASK_CHANGE_FILENAME                = Το ίδιο αρχείο υπάρχει.[br][br]Θέλετε να αλλάξετε το όνομα από ${str1} σε ${str2};
+TEXT_ASK_DELETE_FILE                    = Θέλετε να διαγράψετε το επιλεγμένο αρχείο;
+TEXT_ASK_STOP_EXTRACT                   = Θέλετε να διακόψετε την εξαγωγή;
+TEXT_ASK_OVERWRITE_ARCHIVE              = Το ίδιο αρχείο υπάρχει.[br][br]Θέλετε να γίνει αντικατάσταση;
+TEXT_ASK_INIT_SETTING                   = Θέλετε επαναφορά στις προεπιλογές; Το Bandizip θα επανεκκινήσει
+TEXT_ASK_STOP_ARCHIVING                 = Θέλετε να διακόψετε τη συμπίεση;
+TEXT_ASK_STOP_MODIFYING                 = Θέλετε να διακόψετε τη λειτουργία;
+TEXT_ASK_APPLY_MODIFIED_FILE            = Θέλετε να εφαρμόσετε τις αλλαγές  στο αρχείο συμπίεσης;[br](${str1})
+TEXT_ASK_INSTALL_ICONPACK               = Θέλετε σίγουρα να εγκαταστήσετε το πακέτο εικονιδίων;(${str1})?
+TEXT_ASK_MAKE_FOLDER                    = Ο φάκελος δεν υπάρχει. Θέλετε να τον δημιουργήσετε;[br][br]- ${str1}
+TEXT_ASK_CONT_WITHOUTWRITEPERMISSION    = Ο φάκελος προορισμού δεν έχει άδεια εγγραφής.[br][br]- ${str1}[br][br]Θέλετε να συνεχίσετε;
+TEXT_ASK_CONT_NOFREESPACE               = Ο φάκελος προορισμού δεν έχει αρκετό χώρο. Αλλάξετε το φάκελο προορισμού. [br][br]- ${str1}[br][br]Θέλετε να συνεχίσετε;
+TEXT_ASK_ASK_UAC_ELEVATION              = Δεν έχετε άδεια για να αλλάξετε αυτά τα αρχεία. [br][br]Θέλετε να επανεκκινήσετε το πρόγραμμα αυτό ως διαχειριστής;
+TEXT_ASK_OPENERR_FIRST_VOLUME           = Δεν μπορείτε να ανοίξετε αυτό το αρχείο. [br][br]Θέλετε να ανοίξετε το πρώτο μέρος του διαχωρισμένου αρχείου (${str1});
+TEXT_ASK_DELSRC_TURN_ON_TEST_ARCHIVE    = Αν διαγράψετε αρχεία μετά την αρχειοθέτηση, μπορεί να χάσετε σημαντικά αρχεία εάν τα αρχεία είναι σπασμένα.[br][br]Θέλετε να τσεκάρετε την επιλογή «Δοκιμή αρχείου»;
+TEXT_ASK_DEST_FOLDER_SPACE_NOT_ENOUGH   = Δεν υπάρχει αρκετός χώρος στο δίσκο για την εξαγωγή. Θέλετε να συνεχίσετε;[br][br]Φάκελος προορισμού: ${str1}[br]Ελεύθερος χώρος στο δίσκο: ${str2}[br]Μέγεθος του αρχείου εξαγωγής: ${str3}
+
+TEXT_WARN_BROKEN_FILE                   = Το αρχείο είναι κατεστραμμένο
+TEXT_WARN_BROKEN_OR_MULTIVOL_PROBLEM    = Το αρχείο είναι κατεστραμμένο ή απαιτείται άλλο διαιρεμένο αρχείο
+
+TEXT_BTN_PAUSE                          = Παύση
+TEXT_BTN_RESUME                         = Συνέχεια
+
+TEXT_ERRDLG_ERROR_OCCURRED              = Προέκυψε σφάλμα
+TEXT_ERRDLG_USER_ABORT                  = Ματαιώθηκε
+
+TEXT_ARKERR_CANT_OPEN_FILE              = Αδυναμία ανοίγματος αρχείου
+TEXT_ARKERR_CANT_OPEN_FILE_LOCKED       = Δε μπορεί να ανοιχθεί το αρχείο γιατί χρησιμοποιείται από άλλο πρόγραμμα
+TEXT_ARKERR_PASSWORD_NOT_SET            = Απαιτείται κωδικός
+TEXT_ARKERR_INVALID_PASSWD              = Ανύπαρκτος κωδικός
+TEXT_ARKERR_USER_ABORTED                = Ματαιώθηκε
+TEXT_ARKERR_INVALID_FILE_CRC            = Σφάλμα CRC
+TEXT_ARKERR_CANT_OPEN_FILE_TO_WRITE     = Αδυναμία ανοίγματος αρχείου
+TEXT_ARKERR_CANT_READ_DATA              = Αδυναμία ανάγνωσης αρχείου
+TEXT_ARKERR_INFLATE_FAILED              = Σφάλμα δεδομένων - Το αρχείο είναι κατεστραμένο
+TEXT_ARKERR_BZIP2_ERROR                 = Σφάλμα δεδομένων - Το αρχείο είναι κατεστραμένο
+TEXT_ARKERR_DATA_CORRUPTED              = Το αρχείο είναι κατεστραμένο ή απαιτείται ένα άλλο διαιρεμένο αρχείο
+TEXT_ARKERR_CANT_OPEN_DEST_FILE         = Αδυναμία ανοίγματος αρχείου
+TEXT_ARKERR_CANT_CREATE_FOLDER          = Αδυναμία δημιουργίας φακέλου
+TEXT_ARKERR_UNKNOWN_COMPRESSION_METHOD  = Μη υποστηριζόμενη μέθοδος συμπίεσης
+TEXT_ARKERR_WRITE_FAIL                  = Σφάλμα κατά την εγγραφή
+TEXT_ARKERR_DISK_FULL                   = Ο δίσκος είναι γεμάτος
+TEXT_ARKERR_FILENAME_EXCED_RANGE        = Το όνομα και η διαδρομή του αρχείου δε μπορούν να υπερβαίνουν τους 260 χαρακτήρες
+TEXT_ARKERR_CANT_CREATE_FILE            = Αδυναμία δημιουργίας αρχείου
+TEXT_ARKERR_CANT_CREATE_FILE_UAC        = Αδυναμία δημιουργίας αρχείου. Εκτελέστε το πρόγραμμα ως διαχειριστής.
+TEXT_ARKERR_USER_SKIP                   = Παραβλέφθηκε
+TEXT_ARKERR_FILE_TRUNCATED              = Το τέλος του αρχείου λέιπει ή έχει καταστραφεί
+TEXT_ARKERR_INVALID_PASSWD_OR_BROKEN    = Ο κωδικός δεν υπάρχει ή το αρχείο είναι κατεστραμένο
+TEXT_ARKERR_7ZERR_BROKEN_ARCHIVE        = Το αρχείο είναι κατεστραμένο
+TEXT_ARKERR_SFX_SIZE_OVER_4GB           = Το αυτοαποσυμπιεζόμενο αρχείο (*.exe) είναι πάνω από 4GB. Δε μπορείτε να εκτελέσετε αρχείο 4GB στα Windows.
+TEXT_ARKERR_ZIP_LAST_VOL_ONLY           = Αδυναμία ανοίγματος αρχείου συμπίεσης. Aπαιτείται ένα άλλο διαχωρισμένο αρχείο (.z01, .z02..)
+TEXT_ARKERR_ZIP_LAST_VOL_ONLY_WARN      = Αδυναμία ανοίγματος αρχείου Zip. Aπαιτείται ένα άλλο διαχωρισμένο αρχείο (.z01, .z02..)
+TEXT_ARKERR_CANNOT_FIND_NEXT_VOLUME     = Αδυναμία ανοίγματος αρχείου συμπίεσης. Aπαιτείται ένα άλλο διαχωρισμένο αρχείο.
+TEXT_ARKERR_CORRUPTED_FILE              = Το αρχείο είναι κατεστραμένο
+TEXT_ARKERR_ACCESS_DENIED_DEST_PATH     = Δεν επιτρέπεται η εγγραφή σε αυτό το φάκελο
+TEXT_ARKERR_ACCESS_DENIED_DEST_PATH_UAC = Δεν επιτρέπεται η εγγραφή σε αυτό το φάκελο. Εκτελέστε το πρόγραμμα ως διαχειριστής.
+TEXT_ARKERR_NOT_SUPPORTED_ENC_METHOD    = Ο αλγόρθιμος συμπίεσης δεν υποστηρίζεται
+TEXT_ARKERR_NOT_ENOUGH_MEMORY           = Έλλειψη μνήμης
+TEXT_ARKERR_NOT_ENOUGH_MEMORY_LZMA_ENC  = Έλλειψη μνήμης. Αλλάξτε το επίπεδο συμπίεσης.
+TEXT_ARKERR_NOT_SUPPORTED_OPERATION     = Η λειτουργία δεν υποστηρίζεται
+TEXT_ARKERR_NOT_MATCH_FILE_SIZE         = Το μέγεθος του αρχείου που έχει εξαχθεί και οι πληροφορίες της κεφαλίδας αρχειοθέτησης είναι διαφορετικές.
+TEXT_ARKERR_FILE_SIZE_OVER_4GB          = Δεν είναι δυνατή η συμπίεση ενός αρχείου μεγαλύτερου από 4GB.
+TEXT_ARKERR_TOO_LONG_NAME_AND_TRUNCATED = Το μεγάλο όνομα αρχείου έχει περικοπεί αυτόματα.
+TEXT_ARKERR_CANT_OPEN_SRC_FILE_TO_COPY  = Δεν είναι δυνατό το άνοιγμα του αρχείου για αντιγραφή.
+TEXT_ARKERR_NOTIMPL                     = Δεν έχει υλοποιηθεί.
+TEXT_ARKERR_CANT_READ_FILE              = Δεν είναι δυνατή η ανάγνωση του αρχείου.
+TEXT_ARKERR_NEED_ADMIN_SYMLINK          = Εκτελέστε το Bandizip ως διαχειριστής για να δημιουργήσετε ένα συμβολικό δεσμό.
+TEXT_ARKERR_CANT_MAKE_SYMLINK           = Δεν μπορείτε να δημιουργήσετε ένα συμβολικό δεσμό.
+TEXT_ARKERR_LOCKED_FILE_OPENED_TO_COMPR = Το αρχείο είναι εγγράψιμο και χρησιμοποιείται από άλλη διεργασία.
+TEXT_ARKERR_NOFILE_TO_ARCHIVE           = Δεν υπάρχει αρχείο για αρχειοθέτηση.
+
+TEXT_SPLITCOMBO_NOSPLIT                 = Χωρίς διαχωρισμό
+TEXT_SPLITCOMBO_3MB                     = 3MB
+TEXT_SPLITCOMBO_4MB                     = 4MB
+TEXT_SPLITCOMBO_5MB                     = 5MB
+TEXT_SPLITCOMBO_10MB                    = 10MB
+TEXT_SPLITCOMBO_20MB                    = 20MB
+TEXT_SPLITCOMBO_GMAIL                   = 25MB (Gmail)
+TEXT_SPLITCOMBO_100MB                   = 100MB
+TEXT_SPLITCOMBO_300MB                   = 300MB
+TEXT_SPLITCOMBO_CD650                   = 650MB (CD)
+TEXT_SPLITCOMBO_CD700                   = 700MB (CD)
+TEXT_SPLITCOMBO_FAT32                   = 4GB (FAT32)
+TEXT_SPLITCOMBO_DVD                     = 4.7GB (DVD)
+TEXT_SPLITCOMBO_USERINPUT               = Ορισμός μεγέθους
+
+TEXT_COMPRESSIONMETHOD_STORE            = 0-Χωρίς συμπίεση
+TEXT_COMPRESSIONMETHOD_FAST             = 1-Γρήγορη συμπίεση
+TEXT_COMPRESSIONMETHOD_NORMAL           = 2-Κανονική συμπίεση
+TEXT_COMPRESSIONMETHOD_MAX              = 3-Μέγιστη συμπίεση
+
+TEXT_NEW_ARCHIVE_FILE_NAME              = Νέα συμπίεση
+TEXT_ADD_FILE_2_ARCHIVE_DLG_TITLE       = Προσθήκη αρχείων σε αρχείο συμπίεσης
+TEXT_DUPEFILE_PROCESS_METHOD_RENAME     = &Μετονομασία: ${str1}
+TEXT_TITLE_TEST_MODE                    = Έλεγχος αρχείου συμπίεσης
+TEXT_TITLE_TEMPFOLDER_MODE              = Εξαγωγή σε προσωρινό φάκελο...
+TEXT_TITLE_MODIFYING                    = Τροποποίηση...
+TEXT_DLG_STATIC_DUPEFILE_NEW            = Αρχείο προς εξαγωγή
+TEXT_MSG_SELECTED_FILE                  = ${num1} επιλεγμένα αρχεία
+TEXT_MSG_SELECTED_FOLDER                = ${num1} επιλεγμένοι φάκελοι
+TEXT_MSG_SELECTED_FILEFOLDER            = ${num1} αρχείο(α), ${num2} φάκελος(οι)
+TEXT_MSG_SELECTED_FILESIZESUM           = Μέγεθος επιλεγμένου αρχείου: ${str1}
+
+TEXT_UPDATE_VERSION_CHECK_FAILED        = Σφάλμα ελέγχου έκδοσης
+TEXT_UPDATE_VERSION_CHECKING            = Έλεγχος έκδοσης
+TEXT_UPDATE_DOWNLOAD_FAILED             = Σφάλμα λήψης
+TEXT_UPDATE_LATEST_VERSION              = Ενημερωμένο
+TEXT_UPDATE_DO_DOWNLOAD                 = Χρειάζεται ενημέρωση
+TEXT_UPDATE_DOWNLOAD_COMPLETED          = Η λήψη ολοκληρώθηκε
+
+TEXT_INSTALL_HONEYVIEW                  = Εγκατάσταση του Honeyview
+TEXT_INSTALL_HONEYVIEW_1                = Το Honeyview δεν είναι εγκατεστημένο στον υπολογιστή σας.
+TEXT_INSTALL_HONEYVIEW_2                = Παρακαλούμε δοκιμάστε το Honeyview της Bandisoft.<br> Υποστηρίζει την προβολή εικόνων σε συμπιεσμένα αρχεία ZIP, RAR, 7z χωρίς εξαγωγή.
+
+TEXT_REGISTRATION_FAILED                = Η εγγραφή απέτυχε.[br]Ελέγξτε τη διεύθυνση ηλεκτρονικού ταχυδρομείου και τον αριθμό-κλειδί προϊόντος.
+TEXT_REGISTRATION_SUCCEED               = To Bandizip σας έχει εγγραφεί
+TEXT_REGISTRATION_ASK                   = Είστε βέβαιοι ότι θέλετε να καταργήσετε το Bandizip;
+TEXT_REGISTER_NOT_REGISTERED            = Το Bandizip δεν έχει εγγραφεί.[br]Παρακαλούμε αγοράστε και και καταχωρήστε το Bandizip για να το χρησιμοποιήσετε χωρίς περιορισμό στις δυνατότητες.
+TEXT_REGISTER_INFO                      = Ο παρακάτω χρήστης έχει εγγραφεί στο Bandizip:[br]Διεύθυνση ηλεκτρονικού ταχυδρομείου: ${str1}[br]Κλειδί Προϊόντος: ${str2}
+
+TEXT_TITLE_SCAN_MODE                    = Σάρωση λογισμικού κακόβουλης λειτουργίας στην αρχειοθέτηση
+TEXT_SCAN_AMSI_PROVIDER                 = Η εκκίνηση του AMSI ήταν επιτυχής
+TEXT_SCAN_COMPLETED                     = Η σάρωση για κακόβουλο λογισμικό ολοκληρώθηκε.
+TEXT_SCAN_MALWARE_DETECTED              = Εντοπίστηκε κακόβουλο λογισμικό.
+TEXT_SCAN_MALWARE_NOTDETECTED           = Δεν εντοπίστηκε κακόβουλο λογισμικό.
+TEXT_SCAN_MALWARE_TOOBIG                = Η σάρωση απέτυχε. Το αρχείο είναι πολύ μεγάλο.
+TEXT_ERRDLG_ERROR_MALWARE_DETECTED      = Το κακόβουλο λογισμικό εντοπίστηκε στο αρχείο.
+TEXT_ERRDLG_ERROR_MALWARE_DETECTED_AND_CANCELED= Εντοπίστηκε κακόβουλο λογισμικό στο αρχείο. Η εξαγωγή ακυρώθηκε.
+TEXT_MSG_AMSI_INIT_FAILED               = Η εκκίνηση του AMSI για σάρωση απέτυχε. Επισκεφθείτε τη διεύθυνση https://go.bandisoft.com/amsi για λεπτομέρειες.
+TEXT_MSG_AMSI_WIN10_NOTICE              = Η ανίχνευση Antimalware είναι διαθέσιμη μόνο στα Windows 10. Επισκεφθείτε τη διεύθυνση https://go.bandisoft.com/amsi για λεπτομέρειες.
+
+[MENU]
+MENUSTR_FILE                            = &Αρχείο
+MENUSTR_EDIT                            = &Επεξεργασία
+MENUSTR_SETTING                         = Επιλ&ογές
+MENUSTR_FIND                            = Εύ&ρεση
+MENUSTR_VIEW                            = &Προβολή
+MENUSTR_TOOLS                           = Ερ&γαλεία
+MENUSTR_HELP                            = &Βοήθεια
+
+MENUSTR_OPEN                            = &Άνοιγμα αρχείου συμπίεσης\tCtrl+O
+MENUSTR_RECENT                          = Πρόσφατα αρχεία
+MENUSTR_CLOSE_FILE                      = &Κλείσιμο αρχείου συμπίεσης\tF4
+MENUSTR_CREATE_ARCHIVE                  = &Νέο αρχείο συμπίεσης\tCtrl+N
+MENUSTR_NEW_WINDOW                      = Νέο παράθυρο \tCtrl+Shift+N
+MENUSTR_NEW_WINDOW_ADMIN                = Νέο παράθυρο (Διαχειριστής)\tCtrl+Alt+N
+MENUSTR_SAVE_AS_ARCHIVE                 = Αποθήκευση ως
+MENUSTR_DELETE_ARCHIVE                  = Διαγραφή αρχείου \tCtrl+Del
+MENUSTR_PERM_DELETE_ARCHIVE             = Μόνιμη διαγραφή αρχείου \tShift+Ctrl+Del
+MENUSTR_OPEN_ARCHIVE_FOLDER             = Άνοιγμα θέσης αρχείου
+MENUSTR_TEST_ARCHIVE                    = &Έλεγχος αρχείου συμπίεσης\tCtrl+T
+MENUSTR_SCAN_ARCHIVE                    = Σάρωση αρχείου για malware\tCtrl+I
+MENUSTR_EXTRACT_FILE                    = &Εξαγωγή αρχείου\tCtrl+E
+MENUSTR_EXIT                            = Έ&ξοδος \tCtrl+W
+
+MENUSTR_RENAME_FILE                     = &Μετονομασία αρχείου \tF2
+MENUSTR_ADD_FILE                        = &Προσθήκη αρχείου\tIns
+MENUSTR_DELETE_FILE                     = &Διαγραφή αρχείου \tDel
+MENUSTR_EDIT_COMMENT                    = Σχόλιο αρχείου
+MENUSTR_SETTING_SUB                     = &Ρυθμίσεις (F5)
+MENUSTR_REGISTER                        = Εγγραφή Bandizip...
+MENUSTR_UNREGISTER                      = Απεγγραφή Bandizip...
+MENUSTR_PASSMAN                         = Διαχειριστής κωδικών...
+MENUSTR_FIND_ITEM                       = Εύρεση αρχείων\tCtrl+F
+MENUSTR_COPY_FILES2CLIPBOARD            = Αντιγραφή αρχείων στο πρόχειρο\tCtrl+C
+MENUSTR_PASTE_FILESFROMCLIPBOARD        = Επικόλληση αρχείων από το πρόχειρο\tCtrl+V
+
+
+MENUSTR_VIEW_STARTSCREEN                = Οθόνη έναρξης \tF6
+MENUSTR_VIEW_TREECONTROL                = Δενδρική προβολή \tF7
+MENUSTR_VIEW_COMMENT                    = Σχόλιο αρχείου\tF8
+MENUSTR_VIEW_PREVIEW                    = Προεπισκόπηση εικόνας
+MENUSTR_VIEW_STATUS_BAR                 = Γραμμή κατάστασης
+MENUSTR_VIEW_TOOLBAR                    = Γραμμή εργαλείων
+MENUSTR_VIEW_TOOLBAR_NORMAL             = Μεγάλη
+MENUSTR_VIEW_TOOLBAR_MINI               = Μικρή
+MENUSTR_VIEW_TOOLBAR_OLD                = Παλαιά
+MENUSTR_VIEW_TOOLBAR_HIDE               = Απόκρυψη
+MENUSTR_SET_TOOLBAR_ITEM                = Επιλέξτε πλήκτρα γραμμής εργαλείων
+MENUSTR_VIEW_LISTVIEW                   = Λίστα αρχείων
+MENUSTR_VIEW_LISTVIEW_ICON              = Εικονίδια
+MENUSTR_VIEW_LISTVIEW_LIST              = Λίστα
+MENUSTR_VIEW_LISTVIEW_REPORT            = Λεπτομέρειες
+MENUSTR_VIEW_LISTVIEW_PREVIEW           = Μεγάλα εικονίδια
+MENUSTR_VIEW_COLUMN                     = Στήλες
+MENUSTR_VIEW_ALWAYS_ON_TOP              = Πάντα στην κορυφή
+MENUSTR_VIEW_COLOR_SETTING              = Ρυθμίσεις χρώματος...
+
+MENUSTR_TOOLS_REPAIR                    = Επισκευή αρχείου...
+MENUSTR_TOOLS_RECOVERY                  = Ανάκτηση κωδικού...
+
+MENUSTR_ABOUT                           = &Περί του Bandizip \tF1
+MENUSTR_HELPPAGE                        = &Μετάβαση στη σελίδα βοήθειας
+MENUSTR_OPEN_FOLDER                     = &Άνοιγμα φακέλου Bandizip
+MENUSTR_FORUM                           = Μετάβαση στο &Forum Bandizip
+MENUSTR_HOMEPAGE                        = Μετάβαση στην ιστοσελίδα
+
+POPUPMENU_VIEWITEM_COMPSIZE             = Συμπιεσμένο μέγεθος
+POPUPMENU_VIEWITEM_ORIGSIZE             = Αρχικό μέγεθος
+POPUPMENU_VIEWITEM_KIND                 = Τύπος αρχείου
+POPUPMENU_VIEWITEM_DATE_MOD             = Ημερ/νία τροποποίησης
+
+POPUPMENU_VIEWITEM_COMPMETHOD           = Μέθοδος συμπίεσης
+POPUPMENU_VIEWITEM_ENCRMETHOD           = Μέθοδος κρυπτογράφησης
+POPUPMENU_VIEWITEM_CRC                  = CRC
+POPUPMENU_VIEWITEM_ATTRIB               = Χαρακτηριστικά
+POPUPMENU_VIEWITEM_COMMENT              = Σχόλιο αρχείου
+POPUPMENU_VIEWITEM_EXT                  = Πρόσθετες πληροφορίες
+
+POPUPMENU_LISTCONTROL_EXTRACT_ALL       = Εξαγωγή όλων \tCtrl+E
+POPUPMENU_LISTCONTROL_EXTRACT_SELECTED  = Εξαγωγή επιλεγμένου αρχείου
+POPUPMENU_LISTCONTROL_EXTRACT_HERE      = Εξαγωγή εδώ
+
+POPUPMENU_LISTCONTROL_EXECUTE           = Άνοιγμα\tEnter
+POPUPMENU_LISTCONTROL_EXECUTE_SYS       = Άνοιγμα με συσχετισμένο πρόγραμμα
+POPUPMENU_LISTCONTROL_EDIT_SELECTED     = Επεξεργασία\tF3
+POPUPMENU_LISTCONTROL_OPENWITHBANDIZIP  = Άνοιγμα με &Bandizip
+
+POPUPMENU_LISTCONTROL_NEW_FOLDER        = Νέος φάκελος
+POPUPMENU_LISTCONTROL_ADD_FILE          = Προσθήκη αρχείου \tIns
+POPUPMENU_LISTCONTROL_DELETE_FILE       = Διαγραφή αρχείου \tDel
+POPUPMENU_LISTCONTROL_RENAME_FILE       = Μετονομασία αρχείου
+POPUPMENU_LISTCONTROL_SELECT_ALL        = Επιλογή όλων \tCtrl+A
+POPUPMENU_LISTCONTROL_MOVE2PARENT       = Μετακίνηση στο γονικό φάκελο\tBackspace
+
+POPUPMENU_TREECONTROL_DELETE_ARCHIVE    = Διαγραφή αρχείου
+POPUPMENU_TREECONTROL_OPENARCHIVEFOLDER = Άνοιγμα φακέλου
+
+POPUPMENU_EXTRACT_AUTODEST              = Αυτόματη εξαγωγή\tCtrl+Shift+S
+POPUPMENU_EXTRACT_CURRENT               = Εξαγωγή στον τρέχοντα φάκελο\tCtrl+Shift+C
+POPUPMENU_EXTRACT_ARCHIVENAME           = Εξαγωγή σε φάκελο με το ίδιο όνομα
+POPUPMENU_EXTRACT_DESKTOP               = Εξαγωγή στην επιφάνεια εργασίας
+POPUPMENU_EXTRACT_DESKTOP_AUTODEST      = Αυτόματη εξαγωγή στην επιφάνεια εργασίας
+
+POPUPMENU_RECENT_CLEAR                  = Ιστορικό διαγραφής
+POPUPMENU_RECENT_NOITEM                 = Δεν υπάρχουν πρόσφατα αρχεία
+
+POPUPMENU_SHELLOPEN_OPENARCHIVE         = Άνοιγμα με Bandizip
+POPUPMENU_SHELLOPEN_EXTRACTAUTO         = Αυτόματη εξαγωγή
+
+POPUPMENU_CODEPAGE_DEFAULT              = Προκαθορισμένη
+POPUPMENU_CODEPAGE_SIMPCHINESE          = Κινεζική απλοποιημένη
+POPUPMENU_CODEPAGE_TRADCHINESE          = Κινεζική παραδοσιακή
+POPUPMENU_CODEPAGE_JAPANESE             = Ιαπωνική
+POPUPMENU_CODEPAGE_KOREAN               = Κορεατική
+POPUPMENU_CODEPAGE_WINDOWS1252          = Δυτικής Ευρώπης
+POPUPMENU_CODEPAGE_WINDOWS1250          = Κεντρικής Ευρώπης
+POPUPMENU_CODEPAGE_WINDOWS1251          = Κυρικλική
+POPUPMENU_CODEPAGE_WINDOWS1254          = Τουρκική
+POPUPMENU_CODEPAGE_WINDOWS737           = Ελληνική
+POPUPMENU_CODEPAGE_ARABIC               = Αραβική
+POPUPMENU_CODEPAGE_HEBREW               = Εβραϊκή
+POPUPMENU_CODEPAGE_BALTIC               = Γλώσσες Βαλτικής
+POPUPMENU_CODEPAGE_THAI                 = Ταϊλανδικά
+POPUPMENU_CODEPAGE_UTF8                 = (UTF-8)
+POPUPMENU_CODEPAGE_AUTODETECT           = Αυτόματη ανίχνευση
+
+POPUPMENU_PREVIEW_EXECUTE_HONEYVIEW     = Προβολή με το Honeyview
+POPUPMENU_PREVIEW_EXECUTE_ASSOC         = Προβολή με το συσχετισμένο πρόγραμμα
+
+DLG_MENUSTR_MINIMIZE2TRAY               = Ελαχιστοποίηση στη γραμμή ειδοποιήσεων
+DLG_MENUSTR_LOW_PRIORITY                = Χαμηλή προτεραιότητα
+DLG_MENUSTR_DEL_ARCHIVEAFTEREXTRACT     = Διαγραφή αρχείου συμπίεσης μετά την εξαγωγή
+
+
+[DIALOG]
+;------------------------------------------------------------------------------
+; GENERAL
+IDOK                                    = Εντάξει
+IDCANCEL                                = Άκυρο
+
+;------------------------------------------------------------------------------
+[IDD_ABOUT]
+IDD_ABOUT                               = Περί του Bandizip
+IDC_BTN_HOMEPAGE                        = Ιστοσελίδα
+IDC_BTN_UPDATE                          = Ενημέρωση
+IDC_BTN_REGIST                          = Εγγραφή τώρα
+IDC_BTN_BUY                             = Αγορά τώρα
+IDC_STATIC_LICENSE                      = Πληροφορίες εγγραφής Bandizip
+
+;------------------------------------------------------------------------------
+[IDD_OPEN_PROGRESS]
+IDD_OPEN_PROGRESS                       = Άνοιγμα αρχείου
+IDC_STATIC_OPENING                      = Άνοιγμα
+
+;------------------------------------------------------------------------------
+[IDD_SELECT_FOLDER]
+IDD_SELECT_FOLDER                       = Επιλέξτε διαδρομή εξαγωγής
+IDC_STATIC_FOLDER                       = &Διαδρομή εξαγωγής
+IDC_STATIC_FILES2EXTRACT                = Εξαγωγή:
+IDC_RADIO_FILES2EXTRACT_0               = &Όλα τα αρχεία
+IDC_RADIO_FILES2EXTRACT_1               = &Επιλεγμένα αρχεία
+IDC_CHK_CREATE_FOLDER_WITH_ARCHIVE_NAME = Εξαγάγετε στο φάκελο «προορισμού» κάτω από τον επιλεγμένο φάκελο
+IDC_CHK_DEL_ARCHIVE_AFTER_EXTRACT       = Διαγραφή αρχικών αρχείων μετά την εξαγωγή
+IDC_CHK_REMEMBER_SETTINGS               = Απομνημόμευση ρυθμίσεων
+IDC_BTN_NEWFOLDER                       = Νέος φάκελος
+
+;------------------------------------------------------------------------------
+[IDD_EXTRACT]
+IDD_EXTRACT                             = Εξαγωγή
+IDC_BTN_STOP                            = Διακοπή
+IDC_BTN_CLOSE                           = Κλείσιμο
+IDC_BTN_PAUSE                           = Παύση
+
+;------------------------------------------------------------------------------
+[IDD_ARCHIVE]
+IDD_ARCHIVE                             = Νέο αρχείο συμπίεσης
+IDC_STATIC_FILE_LIST                    = Προσθήκη αρχείων
+IDC_STATIC_ARCHIVE_SETTING              = Ρυθμίσεις αρχείου
+IDC_STATIC_ARCHIVE_NAME                 = Όνομα αρχείου
+IDC_STATIC_SET_DEST_FOLDER              = Φάκελος προορισμού
+IDC_STATIC_ARCHIVE_TYPE                 = Αποθήκευση ως
+IDC_STATIC_ARCHIVE_VOLUME_SIZE          = Διαίρεση αρχείου
+IDC_STATIC_COMPRESSION_METHOD           = Επίπεδο συμπίεσης
+IDC_STATIC_HELP_SPLIT                   = [Βοήθεια]
+IDC_STATIC_HELP_7Z                      = [Τύπος 7Z]
+IDC_BTN_SELECT_ARCHIVE_NAME             = &Εξερεύνηση...
+IDC_BTN_SET_PASSWORD                    = Ορισμός κωδικού...
+IDC_BTN_TEST_ARCHIVE                    = Δοκιμή αρχείου συμπίεσης
+IDC_BTN_DELETE_SRC                      = Διαγραφή αρχείων μετά τη συμπίεση
+IDC_BTN_ARCHIVE_AS_EACH_NAME            = Συμπίεση σε κάθε όνομα αρχείου/φακέλου
+IDC_BTN_SET_DEST_FOLDER                 = Αλλάξετε τον φάκελο προορισμού
+IDC_BTN_TOGGLE_ADVANCED                 = Περισσότερες επιλογές...
+IDC_BTN_SET_SFX                         = Ρυθμίσεις SFX...
+IDC_BTN_ADD                             = &Προσθήκη...
+IDC_BTN_DEL                             = &Διαγραφή
+IDC_BTN_START                           = &Εκκίνηση
+IDC_BTN_COMP_ADVANCED                   = Προχωρημένα
+
+;------------------------------------------------------------------------------
+[IDD_ARCHIVE_ADVANCED]
+IDD_AA_ZIP                              = Ρυθμίσεις συμπίεσης ZIP/ZIPX
+IDC_AA_ZIP_ALGO                         = Μέθοδος συμπίεσης
+IDC_AA_ZIP_ENC                          = Μέθοδος κρυπτογράφησης
+IDC_AA_ZIP_THREAD                       = Αριθμός νημάτων CPU
+COMBO_TEXT_THREAD_AUTO                  = Αυτόματη
+IDC_CHK_ZIP_COMMENT                     = Σχόλιο καταστήματος
+IDD_AA_7Z                               = Ρυθμίσεις συμπίεσης 7Z
+IDC_AA_7Z_ALGO                          = Μέθοδος συμπίεσης
+IDC_AA_7Z_SOLID                         = Συμπαγές μέγεθος μπλοκ
+IDC_CHK_7Z_ENC_FILENAMES                = Κωδικοποίηση αρχείων ονομάτων
+IDD_AA_TAR                              = Ρυθμίσεις αρχειοθέτησης TAR
+IDC_CHK_TAR_SYMLINK                     = Αποθήκευση συμβολικών συνδέσμων
+IDC_CHK_TAR_HARDLINK                    = Σύνδεσμοι καταστήματος
+COMBO_TEXT_SOLID_NONE                   = Μη συμπαγές
+COMBO_TEXT_SOLID_SOLID                  = Συμπαγές
+
+;------------------------------------------------------------------------------
+[IDD_PASSWORD_INPUT]
+IDD_PASSWORD_INPUT                      = Εισάγετε τον κωδικό πρόσβασης
+IDC_STATIC_DESC_ARCHIVING               = Πληκτρολογήστε έναν κωδικό πρόσβασης για το αρχείο σας. Συνιστάται κωδικός πρόσβασης τουλάχιστον 8 χαρακτήρων για καλύτερη ασφάλεια.
+IDC_STATIC_DESC_MASTERPASS              = Πληκτρολογήστε έναν κύριο κωδικό πρόσβασης για τη διαχείριση κωδικών πρόσβασης. Συνιστάται κωδικός πρόσβασης τουλάχιστον 8 χαρακτήρων για καλύτερη ασφάλεια.
+IDC_STATIC_DESC_EXTRACT                 = Πληκτρολογήστε τον κωδικό πρόσβασης για το κρυπτογραφημένο αρχείο.
+IDC_STATIC_DESC_EXTRACT_INVALIDPASS     = Ανύπαρκτος κωδικός. Επανεισάγετε κωδικό.
+IDC_STATIC_PWD                          = Πληκτρολογήστε τον κωδικό πρόσβασης
+IDC_STATIC_PWD2                         = Πληκτρολογήστε ξανά τον κωδικό πρόσβασης
+IDC_BTN_SHOW_PASSWORD                   = Εμφάνιση κωδικού
+IDC_BTN_PASSMAN                         = Διαχείριση κωδικών πρόσβασης...
+IDC_CHECK_APPLY_ALL                     = &Εφαρμογή όλων
+IDC_STATIC_PASS_RECOVERY                = Ξεχάσατε τον κωδικό πρόσβασης; Δοκιμάστε να χρησιμοποιήσετε την αποκατάσταση κωδικού πρόσβασης Bandizip.
+
+;------------------------------------------------------------------------------
+[IDD_PASSMAN]
+IDD_PASSMAN                             = Διαχείριση κωδικών πρόσβασης
+TEXT_MSG_CORRUTP_DATA                   = Τα αποθηκευμένα δεδομένα κωδικού πρόσβασης έχουν καταστραφεί.
+TEXT_PASSMAN_WARNING1                   = Εκτός εάν έχει οριστεί ο κύριος κωδικός πρόσβασης, οι κωδικοί πρόσβασης που είναι αποθηκευμένοι στη διαχείριση κωδικών πρόσβασης δεν είναι κρυπτογραφημένοι.
+TEXT_PASSMAN_WARNING2                   = Απαιτείται προσοχή εάν χρησιμοποιείτε αυτήν τη δυνατότητα σε δημόσιο ή κοινόχρηστο υπολογιστή.
+LIST_PASS_HEADER1                       = Κωδικός πρόσβασης
+LIST_PASS_HEADER2                       = Εμφανιζόμενο όνομα
+IDC_BTN_ADD                             = Προσθήκη
+IDC_BTN_DEL                             = Διαγραφή
+IDC_BTN_EDIT                            = Επεξεργασία
+IDC_BTN_SET_MASTERPASS                  = Ορισμός κύριου κωδικού πρόσβασης...
+IDC_BTN_DEL_MASTERPASS                  = Κατάργηση κύριου κωδικού πρόσβασης
+
+;------------------------------------------------------------------------------
+[IDD_PASSMAN_ENTERMASTPASS]
+IDD_PASSMAN_ENTERMASTPASS               = Εισαγωγή κύριου κωδικού πρόσβασης
+IDC_STATIC_MASTPASS_MSG                 = Πληκτρολογήστε έναν κύριο κωδικό πρόσβασης για να αποκτήσετε πρόσβαση στο διαχειριστή κωδικών πρόσβασης. Επαναφορά για να διαγράψετε όλες τις πληροφορίες κωδικού πρόσβασης που είναι αποθηκευμένες στο σύστημα.
+IDC_BTN_INITPASSMAN                     = Επαναφορά
+TEXT_ASK_INIT_PASSMAN                   = Είστε βέβαιοι ότι θέλετε να διαγράψετε όλες τις πληροφορίες κωδικού πρόσβασης;
+IDC_BTN_SHOW_PASSWORD                   = Εμφάνιση κωδικού
+
+;------------------------------------------------------------------------------
+[IDD_PASSMAN_EDIT]
+IDD_PASSMAN_EDIT                        = Πληροφορίες κωδικού πρόσβασης
+IDC_STATIC_PASSWORD                     = Κωδικός πρόσβασης
+IDC_STATIC_DISPNAME                     = Εμφανιζόμενο όνομα (προαιρετικό)
+
+;------------------------------------------------------------------------------
+[IDD_FILE_SELECT]
+IDD_FILE_SELECT                         = Επιλογή
+IDC_BTN_OPEN                            = Άνοιγμα
+
+;------------------------------------------------------------------------------
+[IDD_ARCHIVING]
+IDD_ARCHIVING                           = Συμπίεση
+TEXT_ARCHIVE_TESTING                    = Δοκιμή
+IDC_BTN_STOP                            = Διακοπή
+IDC_BTN_CLOSE                           = Κλείσιμο
+IDC_BTN_PAUSE                           = Παύση
+
+;------------------------------------------------------------------------------
+[IDD_ASK_DUPEFILE]
+IDD_ASK_DUPEFILE                        = Υπάρχον αρχείο
+IDC_STATIC_DUPE_MESSAGE                 = Το αρχείο υπάρχει ήδη
+IDC_STATIC_DUPEFILE_OLD                 = Υπάρχον αρχείο
+IDC_STATIC_DUPEFILE_NEW                 = Νέο αρχείο
+IDC_STATIC_DUPE_ASK                     = Επιλέξτε ενέργεια:
+IDC_RADIO_DUPE_METHOD0                  = &Παράβλεψη
+IDC_RADIO_DUPE_METHOD1                  = &Αντικατάσταση
+IDC_RADIO_DUPE_METHOD2                  = &Μετονομασία
+IDC_CHECK_DUPE_APPLY_ALL                = &Εφαρμογή σε όλα
+
+;------------------------------------------------------------------------------
+[IDD_ASK_DROPFILE]
+IDD_ASK_DROPFILE                        = Επιλογή αρχείου συμπίεσης
+IDC_STATIC_ASK_HANDLING                 = Επιλέξτε ενέργεια:
+IDC_RADIO_HANDLE_METHOD0                = &Άνοιγμα αρχείου
+IDC_RADIO_HANDLE_METHOD1                = &Νέα συμπίεση
+IDC_RADIO_HANDLE_METHOD2                = &Προσθήκη στο υπάρχον αρχείο
+IDC_CHK_PASS                            = Χρήση κωδικού
+IDC_STATIC_PASSWORD_AGAIN               = Πληκτρολογήστε ξανά τον κωδικό πρόσβασης
+IDC_CHK_SHOW_PASS                       = Εμφάνιση κωδικού πρόσβασης
+
+;------------------------------------------------------------------------------
+[IDD_SETTING]
+IDD_SETTING                             = Ρυθμίσεις
+IDC_BTN_INIT                            = Επαναφορά
+
+;------------------------------------------------------------------------------
+[IDD_SETTING_GENERAL]
+IDC_STATIC_GENERAL                      = Γενικές ρυθμίσεις
+IDC_CHK_EXIT_WITH_ESC                   = Έξοδος με το πλήκτρο ESC
+IDC_CHK_TEST_ARCHIVE_AFTER_MODIFY       = Πάντα έλεγχος αρχείου όταν προστίθεται/διαγράφεται/μετονομάζεται
+IDC_CHK_SNAP                            = Χρήση αρπαγής παραθύρου
+IDC_CHK_SHOW_DOTDOT_AT_LIST             = Εμφάνιση καταλόγου [..] στο αρχείο συμπίεσης
+IDC_CHK_SHOW_GRID_AT_LIST               = Εμφάνιση γραμμών πλέγματος σε προβολή λεπτομερειών
+IDC_CHK_FULL_ROW_SELECT_AT_LIST         = Επιλογή πλήρους γραμμής στη λίστα
+IDC_CHK_ONE_CLICK_ACTIVATE              = Άνοιγμα στοιχείου με μονό κλικ
+IDC_STATIC_UPDATE                       = Ρυθμίσεις ειδοποίησης και εγκατάστασης ενημερώσεων
+TEXT_UPDATE_0                           = Εγκατάσταση της πιο πρόσφατης έκδοσης
+TEXT_UPDATE_1                           = Εγκατάσταση μόνο της σταθερής έκδοσης
+TEXT_UPDATE_2                           = Μην ειδοποιoύμαι για ενημερώσεις
+
+;------------------------------------------------------------------------------
+[IDD_SETTING_ASSOC]
+IDC_STATIC_ASSOC_LIST                   = Συσχετισμοί αρχείων
+IDC_BTN_SELECT_MANDATORY                = Επιλογή βασικών
+IDC_BTN_SELECT_ALL                      = Επιλογή όλων
+IDC_BTN_CLEAR_ALL                       = Αποεπιλογή όλων
+IDC_BTN_APPLY_NOW                       = Εφαρμογή τώρα
+IDC_STATIC_ICON_PACK                    = Επιλέξτε πακέτο εικονιδίων:
+IDC_STATIC_ICON_PACK_HOMEPAGE           = [Λήψη πακέτου εικονιδίων]
+IDC_STATIC_DEFAULT_APP_SETTINGS         = Ορισμός προεπιλεγμένων προγραμμάτων των Windows
+
+;------------------------------------------------------------------------------
+[IDD_SETTING_ASSOC_NEW]
+IDC_STATIC_ASSOC_LIST                   = Συσχετισμός επεκτάσεων
+IDC_STATIC_ASSOC_DESC1                  = Για Windows 8 ή νεότερες εκδόσεις, μπορείτε να συσχετίσετε τα αρχεία ως εξής:
+IDC_STATIC_ASSOC_DESC2                  = 1. Κάντε κλικ στο κουμπί "Ρυθμίσεις συσχετισμού" κουμπί.
+IDC_STATIC_ASSOC_DESC3                  = 2. Τσεκάρετε "Επιλογή όλων" στο παράθυρο Ρυθμίσεις συσχετισμού του προγράμματος.
+IDC_STATIC_ASSOC_DESC4                  = 3. Κάντε κλικ στο κουμπί "Αποθήκευση".
+IDC_STATIC_ASSOC_DESC1_10               = Για Windows 10 ή νεότερες εκδόσεις, μπορείτε να συσχετίσετε τα αρχεία ως εξής:
+IDC_STATIC_ASSOC_DESC2_10               = 1. Κάντε κλικ στο κουμπί "Ρυθμίσεις συσχετισμού" κουμπί.
+IDC_STATIC_ASSOC_DESC3_10               = 2. Επιλέξτε "Bandizip" στο παράθυρο Προεπιλεγμένα προγράμματα.
+IDC_STATIC_ASSOC_DESC4_10               = 3. Κλικ στο "Ορισμός αυτού του προγράμματος ως προεπιλεγμένου".
+IDC_BTN_LAUNCH_ASSOC_REG_UI             = Ρυθμίσεις συσχετισμού
+IDC_BTN_SHOW_CLASSIC_ASSOC_UI           = Κλασσική μέθοδος
+
+;------------------------------------------------------------------------------
+[IDD_SETTING_SHELL]
+IDC_STATIC_SHELL_OPEN                   = Ενέργεια διπλού κλικ
+IDC_RADIO_SHELL_OPEN_0                  = Άνοιγμα με Bandizip
+IDC_RADIO_SHELL_OPEN_1                  = Αυτόματη εξαγωγή
+IDC_RADIO_SHELL_OPEN_2                  = Εμφάνιση μενού συστήματος
+IDC_RADIO_SHELL_OPEN_3                  = Αυτόματη εξαγωγή σε καθορισμένο φάκελο
+IDC_BTN_SET_EXTRACT_FOLDER              = Εξερεύνηση...
+IDC_RADIO_SHELL_OPEN_4                  = Εξαγωγή σε φάκελο με το όνομα αρχείου
+IDC_CHK_DEL_ARCHIVE_AFTER_EXTRACT       = Διαγράψετε το αρχείο μετά την εξαγωγή κάνοντας διπλό κλικ
+
+IDC_STATIC_SHELL_EXTRACT                = Μενού εξαγωγής
+IDC_CHK_SHELL_EXTRACT_HERE              = Εξαγωγή εδώ
+IDC_CHK_SHELL_EXTRACT_AUTO              = Αυτόματη εξαγωγή
+IDC_CHK_SHELL_EXTRACT_SUB               = Εξαγωγή σε
+IDC_CHK_SHELL_EXTRACT_HERE_DEL          = Εξαγωγή εδώ και διαγραφή
+IDC_CHK_SHELL_EXTRACT_AUTO_DEL          = Εξαγωγή εδώ (έξυπνη) και διαγραφή
+IDC_CHK_SHELL_EXTRACT_SUB_DEL           = Εξαγωγή στο φάκελο "Όνομα αρχείου" και διαγραφή
+IDC_CHK_SHELL_EXTRACT_DLG               = Επιλογή φακέλου εξαγωγής
+IDC_CHK_SHELL_EXTRACT_ADMIN             = Εξαγωγή ως διαχειριστής
+IDC_CHK_SHELL_TEST_ARCHIVE              = Έλεγχος αρχείου συμπίεσης
+IDC_CHK_SHELL_OPEN_ARCHIVE              = Άνοιγμα με Bandizip
+IDC_CHK_SHELL_PREVIEW                   = Προεπισκόπιση αρχείου συμπίεσης
+IDC_STATIC_SHELL_PREVIEW_SIZE           = Μέγιστος αριθμός αρχείων:
+IDC_CHK_SHELL_PREVIEW_TREE              = Προεπισκόπηση αρχείου με δομή δέντρου
+
+IDC_STATIC_SHELL_ARCHIVING              = Μενού συμπίεσης
+IDC_CHK_SHELL_ARCHIVING_AS_FILENAME     = "Συμπίεση σε "FileName.zip""
+IDC_CHK_SHELL_ARCHIVING_AND_DEL         = Συμπίεση στο "FileName.zip" και διαγραφή
+IDC_CHK_SHELL_ARCHIVING_AND_EMAIL       = Συμπίεση σε "FileName.zip" and email
+IDC_CHK_SHELL_ARCHIVING_ZIPX            = "Συμπίεση σε "FileName.zipx""
+IDC_CHK_SHELL_ARCHIVING_EXE             = "Συμπίεση σε "FileName.exe""
+IDC_CHK_SHELL_ARCHIVING_TAR             = "Συμπίεση σε "FileName.tar""
+IDC_CHK_SHELL_ARCHIVING_TGZ             = "Συμπίεση σε "FileName.tgz""
+IDC_CHK_SHELL_ARCHIVING_LZH             = "Συμπίεση σε "FileName.lzh""
+IDC_CHK_SHELL_ARCHIVING_ISO             = "Συμπίεση σε "FileName.iso""
+IDC_CHK_SHELL_ARCHIVING_7Z              = "Συμπίεση σε "FileName.7z""
+IDC_CHK_SHELL_ARCHIVING_GZ              = "Συμπίεση σε "FileName.gz""
+IDC_CHK_SHELL_ARCHIVING_XZ              = "Συμπίεση σε "FileName.xz""
+IDC_CHK_SHELL_ARCHIVING_EACH            = Συμπίεση σε κάθε όνομα αρχείου/φακέλου
+IDC_CHK_SHELL_ARCHIVING_EACH_7Z         = "Συμπίεση σε κάθε "FileFolderName.7z""
+IDC_CHK_SHELL_ARCHIVING_POPUP           = Προσθήκη σε αρχείο (Bandizip)
+IDC_CHK_SHELL_ARCHIVING_ADMIN           = Συμπίεση ως διαχειριστής
+IDC_CHK_SHELL_ARCHIVING_RULE            = Συμπίεση σε προσαρμοσμένο όνομα αρχείου
+IDC_STATIC_FILENAME_RULE_HELP           = Κανόνας: ${NAME}=Όνομα αρχείου, %Y=Έτος, %m=Μήνας, %d=Ημέρα, %H=Ώρα, %M=Λεπτό, %S=Δευτερόλεπτο
+
+IDC_STATIC_SHELL_BKGND                  = Εμφάνιση λειτουργιών
+IDC_CHK_SHELL_BKGND_NEW_FOLDER          = Νέος φάκελος
+IDC_CHK_SHELL_BKGND_LAUNCH_CMD          = Άνοιγμα γραμμής εντολών (cmd.exe) - Πατήστε το πλήκτρο Shift για άνοιγμα ως διαχειριστής
+
+IDC_STATIC_SHELL_ETC                    = Διάφορα
+IDC_CHK_SHELL_DO_NOT_USE                = Απενεργοποίηση μενού συστήματος
+IDC_CHK_SHELL_AS_SUB_MENU               = Ομαδοποίηση μενού συστήματος
+IDC_CHK_SHELL_HIDE_ICON                 = Απόκρυψη εικονιδίου Bandizip
+IDC_CHK_SHELL_CHECK_ARCHIVE_DEEP        = Διαχωρισμός αρχείων κατά τύπο περιεχομένου
+IDC_CHK_SHELL_CAN_COMPRESS_ARCHIVE      = Εμφάνιση μενού συμπίεσης ακόμα και για συμπιεσμένα αρχεία
+IDC_CHK_SHELL_USE_SELECTED_FILENAME     = Χρήση ονόματος του αρχείου/φακέλου κάτω από το δείκτη του ποντικιού
+IDC_CHK_SHELL_USE_DROP_HANDLER          = Προσθήκη αρχείων απευθείας σε ένα αρχείο ZIP με μεταφορά και απόθεση στην Εξερεύνηση
+
+;------------------------------------------------------------------------------
+[IDD_SETTING_EXTRACT]
+IDC_STATIC_EXTRACT                      = Ρυθμίσεις εξαγωγής
+IDC_CHK_ENTERFOLDERWHENROOTFOLDERISONE  = Εάν υπάρχει μόνο ένας γονικός φάκελος στο αρχείο, εμφάνιση των αρχείων στο φάκελο
+IDC_CHK_OPEN_FOLDER_EXTRACT_COMPLETE    = Άνοιγμα φακέλου μετά την εξαγωγή
+IDC_CHK_DO_NOT_CLOSE_EXTRACT_DLG        = Μην κλείσει το παράθυρο προόδου μετά την εξαγωγή
+IDC_CHK_FAST_DRAG_DROP                  = Χρήση γρήγορης μεταφοράς-απόθεσης αν το αρχείο εξαγωγής είναι μεγάλο
+IDC_CHK_TREAT_TGZ_AS_SOLID_ARCHIVE      = Εξαγωγή ενός αρχείου TGZ, TBZ ανά φορά
+IDC_CHK_TREAT_TGZ_AS_SOLID_WHEN_BIG     = Ακόμα και για τα αρχεία TGZ, TBZ μεγάλου μεγέθους
+IDC_CHK_AUTODEST_ONEFILE2SUBFOLDER      = Στην αυτόματη εξαγωγή, δημιουργία φακέλου αν υπάρχει παραπάνω από ένα αντικείμενο top-level
+IDC_CHK_AUTOCONVERTNFD2NFC_WHENMACOS    = Αυτόματη ανίχνευση κωδικοσελίδας Macintosh
+IDC_CHK_UNIXZIP_AS_UTF8                 = Χρήση κωδικοσελίδας UTF-8 κατά το άνοιγμα αρχείων UNIX
+IDC_CHK_PARALLEL_EXT                    = Χρήση παράλληλης εξαγωγής αν είναι δυνατή
+IDC_STATIC_CODEPAGE                     = Προκαθορισμένη κωδικοσελίδα
+IDC_STATIC_TYPE_OF_EXTRACT_ALL          = Εκτελέστε τους ακόλουθους τύπους αρχείων μετά την αποσυμπίεση των πάντων όταν κάνετε διπλό κλικ
+
+;------------------------------------------------------------------------------
+[IDD_SETTING_ARCHIVE]
+IDC_STATIC_ARCHIVE                      = Ρυθμίσεις συμπίεσης
+IDC_CHK_DO_NOT_STORE_ROOT_FOLDER        = Μη δημιουργείται γονικός φάκελος κατά τη συμπίεση μόνο ενός φακέλου
+IDC_CHK_USE_UTF8_COMPRESS               = Χρήση ονομάτων αρχείων Unicode σε αρχεία Zip (UTF-8)
+IDC_CHK_USE_UTF8_COMPRESS_TAR           = Χρήση ονομάτων αρχείων Unicode σε αρχεία tar,tgz (UTF-8)
+IDC_CHK_FORCE_ZIP64                     = Χρήση πάντα τύπου ZIP64 ακόμα και αν το μέγεθος αρχείου είναι μικρότερο από 2GB (Δε συστήνεται)
+IDC_CHK_EXCLUDE_THUMBSDB                = Εξαίρεση του αρχείου thumbs.db κατά τη συμπίεση
+IDC_CHK_SAVE_NTFS_TIME_TO_ZIP           = Αποθήκευση πληροφοριών ώρας NTFS κατά τη δημιουργία αρχείων Zip
+IDC_CHK_DO_NOT_COMPRESS_UNCOMPRESSIBLE  = Χρήση συμπίεσης υψηλής ταχύτητας
+IDC_CHK_DO_NOT_CLOSE_COMPRESS_DLG       = Μην κλείσει το παράθυρο προόδου μετά την συμπίεση
+IDC_STATIC_COMPRESSION_METHOD           = Επίπεδο συμπίεσης:
+IDC_CHK_TEST_ARCHIVE_AFTER_COMP         = Δοκιμή αρχείου μετά τη συμπίεση
+IDC_RADIO_FOLDER4NEWARCHIVE_USELAST     = Χρήση τελευταίου φακέλου για το νέο αρχείο
+IDC_RADIO_FOLDER4NEWARCHIVE_SET         = Προκαθορισμένος φάκελος για συμπιεσμένα αρχεία
+IDC_BTN_SET_NEW_ARCHIVE_FOLDER          = Εξερεύνηση...
+IDC_CHK_EXCLUDE_FILTER                  = Τύποι αρχείων που θα εξαιρούνται κατά τη συμπίεση
+
+;------------------------------------------------------------------------------
+[IDD_SETTING_VIEWER]
+IDC_STATIC_VIEWER                       = Προβολή
+IDC_CHK_SHOW_PREVIEW                    = Προεπισκόπηση εικόνας
+IDC_CHK_SHOW_FOLDER_SIZE                = Εμφάνιση συμπιεσμένου/αρχικού μεγέθους φακέλου
+IDC_CHK_SET_LISTCONTROL_FONT            = Ορισμός της γραμματοσειράς της λίστας αρχείων
+IDC_BTN_SET_FONT                        = Ορισμός γραμματοσειράς...
+
+IDC_STATIC_SETTING_VIEWITEM             = Στήλες
+IDC_CHK_VIEWITEM_COMPSIZE               = Συμπιεσμένο μέγεθος
+IDC_CHK_VIEWITEM_ORIGSIZE               = Αρχικό μέγεθος
+IDC_CHK_VIEWITEM_KIND                   = Τύπος αρχείου
+IDC_CHK_VIEWITEM_DATE_MOD               = Ημερ/νία τροποποίησης
+IDC_CHK_VIEWITEM_COMPMETHOD             = Μέθοδος συμπίεσης
+IDC_CHK_VIEWITEM_ENCRMETHOD             = Μέθοδος κωδικοποίησης
+IDC_CHK_VIEWITEM_CRC                    = CRC
+IDC_CHK_VIEWITEM_ATTRIB                 = Χαρακτηριστικά
+IDC_CHK_VIEWITEM_COMMENT                = Σχόλιο αρχείου
+IDC_CHK_VIEWITEM_EXT                    = Πρόσθετες πληροφορίες
+
+IDC_STATIC_IMAGE_VIEWER                 = Πρόγραμμα προβολής εικόνων
+IDC_RADIO_IMAGE_VIEWER_0                = Χρήση ενσωματωμένου προγράμματος προβολής
+IDC_RADIO_IMAGE_VIEWER_1                = Χρήση συσχετισμένου προγράμματος
+IDC_RADIO_IMAGE_VIEWER_2                = Χρήση του Honeyview εάν έχει εγκατασταθεί
+
+IDC_STATIC_EDITOR                       = Πρόγραμμα επεξεργασίας
+IDC_BTN_SET_EDITOR_PATH                 = Αναζήτηση...
+
+IDC_STATIC_COLOR                        = Χρώμα
+IDC_STATIC_COLOR_THEME                  = Χρώμα θέματος
+IDC_BTN_BKGND                           = Επιλέχθηκε
+IDC_STATIC_COLOR_TEXT                   = Χρώμα γραμματοσειράς
+IDC_STATIC_COLOR_TEXT_AUTO              = Αυτόματα
+IDC_STATIC_COLOR_TEXT_WHITE             = Λευκό
+IDC_STATIC_COLOR_TEXT_BLACK             = Μαύρο
+
+;------------------------------------------------------------------------------
+[IDD_SETTING_SECURITY]
+IDC_STATIC_SECURITY                     = Ρυθμίσεις ασφάλειας
+IDC_CHK_COPY_ZONE_IDENTIFIER            = Αντιγραφή πληροφοριών Zone.Identifier κατά την εξαγωγή ληφθέντων αρχείων από το διαδίκτυο
+IDC_CHK_AMSI_BEFORE_EXTRACT             = Έλεγχος για κακόβουλο λογισμικό πριν την εξαγωγή
+
+;------------------------------------------------------------------------------
+[IDD_SETTING_ETC]
+IDC_BTN_EXPORT_SETTINGS                 = Εξαγωγή ρυθμίσεων Bandizip
+IDC_STATIC_ETC                          = Διάφορες ρυθμίσεις
+IDC_CHK_SET_TEMP_FOLDER                 = Ορισμός θέσης προσωρινού φακέλου
+IDC_BTN_SET_TEMP_FOLDER                 = Εξερεύνηση...
+IDC_CHK_SET_USER_ARCHIVE_EXT            = Αναγνώριση των ακόλουθων τύπων αρχείων ως αρχεία αρχειοθέτησης
+IDC_CHK_DELETE_TEMP_FILE_ASAP           = Διαγραφή προσωρινών αρχείων όταν βγείτε από την εξαρτημένη διεργασία
+IDC_CHK_DELETE_ARCHIVE_TO_TRASH         = Μετακίνηση αρχείων στον κάδο ανακύκλωσης κατά τη διαγραφή
+IDC_CHK_SHOW_RECENT_ARCHIVE_LIST        = Εμφάνιση ιστορικού τελευταίων αρχείων συμπίεσης
+IDC_CHK_USE_LONG_PATH_NAME              = Χειρισμός μεγάλων ονομάτων διαδρομής άνω των 260 χαρακτήρων
+IDC_CHK_OPEN_ARCHIVE_WITH_SHARE_DEL     = Η Εξερεύνηση των Windows μπορεί για να διαγράφει ανοικτά αρχεία συμπίεσης
+IDC_CHK_AUTO_EXPAND_TREE_CONTROL        = Αυτόματη ανάπτυξη δένδρου φακέλων
+IDC_CHK_USE_MODAL_DIALOG                = Χρησιμοποιήστε ένα αποκλειστικό παράθυρο διαλόγου όταν κάνετε αρχειοθέτηση/εξαγωγή
+IDC_CHK_USE_ELEGANT_UI                  = Χρησιμοποιήστε κομψή σχεδίαση περιβάλλοντος εργασίας
+IDC_CHK_SHOW_STARTSCREN_WHEN_LAUNCH     = Εμφάνιση Οθόνης έναρξης όταν αρχίζει το Bandizip
+IDC_CHK_DISP_FULL_PATH_IN_THE_TITLEBAR  = Εμφάνιση της πλήρους διαδρομής στη γραμμή τίτλου
+IDC_CHK_DEL_OUTFILE_WHEN_USER_CANCEL    = Διαγραφή των αρχείων που έχουν εξαχθεί όταν ακυρώνεται η εξαγωγή
+IDC_CHK_COPY_ZONE_IDENTIFIER            = Αντιγραφή πληροφοριών Zone.Identifier κατά την εξαγωγή ληφθέντων αρχείων από το διαδίκτυο
+IDC_CHK_USE_SET_END_OF_FILE             = Προεκχώρηση χώρου στο δίσκο για το αρχείο εξαγωγής
+IDC_CHK_COMP_FILE_USED_BY_ANOTHPER_PROC = Συμπίεση αρχείου ακόμα και όταν το αρχείο χρησιμοποιείται από άλλη διεργασία
+
+;------------------------------------------------------------------------------
+[IDD_SETTING_LANG]
+IDC_STATIC_LANG                         = Ρυθμίσεις γλώσσας
+IDC_STATIC_OPEN_TRANSLATION_PAGE        = Θέλετε να βοηθήσετε στη μετάφραση αυτού του προγράμματος; Κάντε κλικ εδώ...
+
+;------------------------------------------------------------------------------
+[IDD_SFX_SETTING]
+IDD_SFX_SETTING                         = Ρυθμίσεις SFX (Self Extracting Archive)
+IDC_STATIC_TARGET_PATH                  = Διαδρομή εξαγωγής:
+IDC_STATIC_TITLE                        = Τίτλος SFX:
+IDC_STATIC_RUN                          = Εκτέλεση μετά την εξαγωγή:
+IDC_STATIC_MESSAGE                      = Μήνυμα SFX:
+IDC_CHK_AUTO_CLOSE                      = Κλείσιμο παραθύρου SFX μετά την εξαγωγή
+IDC_BTN_SAVE_SFX_SETTING                = Αποθήκευση ρυθμίσεων
+
+;------------------------------------------------------------------------------
+[IDD_FIND]
+IDD_FIND                                = Εύρεση αρχείων
+IDC_STATIC_FIND                         = Εύρεση του:
+IDC_BTN_CLOSE                           = Κλείσιμο
+IDC_BTN_DELETE                          = Διαγραφή
+IDC_BTN_EXTRACT                         = Εξαγωγή
+
+;------------------------------------------------------------------------------
+[IDD_EDIT_COMMENT]
+IDD_EDIT_COMMENT                        = Σχόλιο αρχείου συμπίεσης
+IDC_STATIC_COMMENT                      = Προσθήκη/Επεξεργασία σχολίου στο αρχείο συμπίεσης
+IDC_CHK_USE_UTF8                        = Αποθήκευση σχολίων ως Unicode (UTF-8)
+IDC_BTN_LOAD_FROM_FILE                  = Φόρτωση σχολίων από αρχείο (*.txt)...
+
+;------------------------------------------------------------------------------
+[IDD_ASK_EXECUTABLE]
+IDD_ASK_EXECUTABLE                      = ΠΡΟΕΙΔΟΠOIΗΣΗ
+IDC_STATIC_WARN_EXECUTABLE              = Αυτό είναι ένα εκτελέσιμο αρχείο. Η εκτέλεσή του μπορεί να βλάψει τον υπολογιστή σας. Θέλετε να συνεχίσετε;
+IDC_CHK_DO_NOT_ASK_AGAIN                = Να μην ερωτηθώ ξανά
+
+;------------------------------------------------------------------------------
+[IDD_REGISTER]
+IDD_REGISTER                            = Εγγραφή Bandizip
+IDC_STATIC_DESC1                        = Πληκτρολογήστε τη διεύθυνση ηλεκτρονικού ταχυδρομείου σας και τον αριθμό-κλειδί προϊόντος που λάβατε μέσω ηλεκτρονικού ταχυδρομείου.
+IDC_STATIC_EMAIL                        = Διεύθυνση email
+IDC_STATIC_PRDUCT_KEY                   = Κλειδί προϊόντος
+IDC_BTN_REGISTER                        = Εγγραφείτε τώρα
+IDC_STATIC_BUYNOW                       = Δεν έχει ακόμη αγοράσει το Bandizip; [Αγοράστε Τώρα]
+
+;------------------------------------------------------------------------------
+[IDD_LICENSE_GUIDE]
+IDD_LICENSE_GUIDE                       = Οδηγός για την άδεια Bandizip
+TEXT_LIMIT_PASSMAN                      = Μόνο ένας κωδικός πρόσβασης μπορεί να αποθηκευτεί στο διαχειριστή κωδικών πρόσβασης στο Bandizip Standard Edition.
+TEXT_SHOW_AD                            = Οι διαφημίσεις εμφανίζονται στο Bandizip Standard Edition. Μπορείτε να αγοράσετε την πληρωμένη έκδοση για να καταργήσετε τις διαφημίσεις.
+TEXT_CANNOT_CHANGE                      = Αυτή η λειτουργία δεν μπορεί να αλλάξει στο Bandizip Standard Edition. Μπορείτε να αγοράσετε την πληρωμένη έκδοση για να αλλάξετε τη λειτουργία.
+TEXT_CANNOT_USE                         = Αυτή η λειτουργία δεν είναι διαθέσιμη στο Bandizip Standard Edition. Μπορείτε να αγοράσετε την πληρωμένη έκδοση για να χρησιμοποιήσετε τη λειτουργία.
+TEXT_PORTABLE_NOTICE                    = Αυτή η λειτουργία δεν είναι διαθέσιμη στο Bandizip Portable Edition. Μπορείτε να αγοράσετε την πληρωμένη έκδοση για να χρησιμοποιήσετε τη λειτουργία.
+IDC_STATIC_COMPARISON                   = Σύγκριση μεταξύ των εκδόσεων...
+IDC_STATIC_HOWTOREGISTER                = Έχετε ήδη αγοράσει Bandizip; [Πώς να εγγραφείτε]
+
+;------------------------------------------------------------------------------
+[IDD_REPAIR_ARCHIVE]
+IDD_REPAIR_ARCHIVE                      = Επιδιόρθωση αρχείου
+IDC_STATIC_SRC                          = Αρχείο για επιδιόρθωση
+IDC_STATIC_DST                          = Επιδιορθώθηκε το αρχείο
+IDC_BTN_START                           = Έναρξη επιδιόρθωσης
+IDC_BTN_TEST                            = Δοκιμή επιδιόρθωσης
+IDC_BTN_STOP                            = Διακοπή
+TEXT_NOTICE                             = Περιηγηθείτε και επιλέξτε ένα αρχείο για επιδιόρθωση και στη συνέχεια κάντε κλικ στην επιλογή "Έναρξη επιδιόρθωσης".
+TEXT_ERR_OCCURRED                       = Παρουσιάστηκε σφάλμα.
+TEXT_ERR_NOT_A_ZIP                      = Το επιλεγμένο αρχείο δεν υποστηρίζεται. Αυτήν τη στιγμή είναι διαθέσιμη μόνο η μορφή ZIP.
+TEXT_ERR_NO_INFO                        = Το επιλεγμένο αρχείο δεν έχει δεδομένα για επιδιόρθωση.
+TEXT_MSG_START                          = Έναρξη επισκευής.
+TEXT_MSG_FINISH                         = Η επισκευή ολοκληρώθηκε.
+TEXT_MSG_ANALYZING                      = Ανάλυση...
+TEXT_MSG_CANCELED                       = Η επισκευή ακυρώθηκε.
+TEXT_MSG_SELECT_ARCHIVE_FIRST           = Επιλέξτε ένα αρχείο (.zip) πριν να ξεκινήσετε την επιδιόρθωση.
+
+[SKIN]
+$TOOLBAR_OPEN                           = Άνοιγμα
+$TOOLBAR_CLOSE_FILE                     = Κλείσιμο
+$TOOLBAR_EXTRACT_FILE                   = Εξαγωγή
+$TOOLBAR_CREATE_ARCHIVE                 = Νέο
+$TOOLBAR_DELETE_FILE                    = Διαγραφή
+$TOOLBAR_ADD_FILE                       = Προσθήκη
+$TOOLBAR_TEST_ARCHIVE                   = Έλεγχος
+$TOOLBAR_CODEPAGE                       = Κωδικοποίηση
+$TOOLBAR_VIEWITEM                       = Στήλες
+$TOOLBAR_SCAN                           = Σάρωση
+
+$TOOLBAR_OPEN2                          = Άνοιγμα αρχείου
+$TOOLBAR_CREATE_ARCHIVE2                = Νέο αρχείο
+
+$TEXT_DESKTOP                           = Επιφάνεια εργασίας
+$TEXT_DOCUMENT                          = Έγγραφα
+$TEXT_PICTURE                           = Εικόνες
+$TEXT_COMPUTER                          = Υπολογιστής
+
+$TEXT_SETTINGTAB_GENERAL                = Γενικά
+$TEXT_SETTINGTAB_ASSOC                  = Συσχετισμοί
+$TEXT_SETTINGTAB_SHELL                  = Μενού συστήματος
+$TEXT_SETTINGTAB_EXTRACT                = Εξαγωγή
+$TEXT_SETTINGTAB_ARCHIVE                = Συμπίεση
+$TEXT_SETTINGTAB_VIEWER                 = Προβολή εικόνων
+$TEXT_SETTINGTAB_SECURITY               = Ασφάλεια
+$TEXT_SETTINGTAB_LANG                   = Γλώσσα
+
+$TOOLTIP_EXTRACTDLG_OPEN_DST            = Άνοιγμα θέσης αρχείου
+$TOOLTIP_EXTRACTDLG_OPEN_SRC            = Άνοιγμα θέσης αρχείου συμπίεσης
+$TOOLTIP_EXTRACTDLG_OPEN_DST_OPTION     = Άνοιγμα θέσης αρχείου μετά την εξαγωγή
+$TOOLTIP_COMPRESSDLG_OPEN_DST           = Άνοιγμα θέσης αρχείου
+$TOOLTIP_OPEN_LAST_EXTRACTED_FOLDER     = Άνοιγμα φακέλου προορισμού
+$TOOLTIP_DO_NOT_CLOSE_EXTRACT_DLG       = Μην κλείσει το παράθυρο μετά την εξαγωγή
+$TOOLTIP_DO_NOT_CLOSE_COMPRESS_DLG      = Μην κλείσει το παράθυρο μετά τη συμπίεση
+$TOOLTIP_ADVANCED_MENU                  = Διάφορες ρυθμίσεις
+$TOOLTIP_REGISTER                       = Εγγραφή Bandizip
+$TOOLTIP_UPDATE                         = Ενημέρωση
+$TOOLTIP_PREVIEW                        = Προβολή μεγάλων εικονιδίων
+$TOOLTIP_REPORT                         = Προβολή λεπτομερειών
+
+$TEXT_INSTALL_START                     = Εντάξει, θα το δοκιμάσω
+$TEXT_INSTALL_CLOSE                     = Κλείσιμο
+$TEXT_INSTALL_HONEYVIEW_LINK            = Δείτε περισσότερα...
+
+$TEXT_HELP_PAGE                         = Σελίδα βοήθειας
+$TEXT_AD                                = Διαφ.
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;
+; TEXT FOR PASSWORD RECOVERY
+;
+[RECOVERY_TEXT]
+PASSWORD_RECOVERY_TITLE                 = Αποκατάσταση κωδικού πρόσβασης Bandizip
+TEXT_MSG_OPENING                        = Άνοιγμα του αρχείου: ${str1}
+TEXT_MSG_CANCELED                       = Το άνοιγμα του αρχείου ακυρώθηκε.
+TEXT_MSG_BROKEN                         = Αυτό το αρχείο έχει καταστραφεί.
+TEXT_MSG_NO_PASSWD                      = Αυτό το αρχείο δεν έχει κωδικό πρόσβασης.
+TEXT_MSG_NOT_SUPPORTED_PASSWORD         = Αυτό το αρχείο έχει κρυπτογραφημένη την κεφαλίδα του αρχείου. Αυτός ο τύπος αρχειοθέτησης δεν υποστηρίζεται αυτήν τη στιγμή.
+TEXT_MSG_OPEN_FIRST                     = Ανοίξτε ένα αρχείο πριν ξεκινήσετε την ανάκτηση.
+TEXT_MSG_CANT_OPEN                      = Απέτυχε το άνοιγμα του αρχείου. (Κωδικός:0x%x)
+TEXT_MSG_NEED_CHECK_SYMBOLS             = Επιλέξτε τύπους χαρακτήρων για την ανάκτηση.
+TEXT_MSG_INIT_FAIL                      = Η προετοιμασία απέτυχε.
+TEXT_MSG_NOT_FOUND                      = Η ανάκτηση απέτυχε. Ο κωδικός πρόσβασης που πρέπει να ανακτηθεί δεν μπορεί να υπερβαίνει το μέγιστο μήκος των 4 χαρακτήρων στην έκδοση Bandizip Standard Edition.
+TEXT_MSG_FILE2FINDPWD                   = Τα παραπάνω αρχεία θα υποβληθούν σε επεξεργασία για την ανάκτηση.
+TEXT_MSG_ERRORATFINDINDEX               = Απέτυχε η εύρεση οποιουδήποτε αρχείου για την αποκατάσταση.
+TEXT_MSG_COPY2CLIPBOARD                 = Ο ανακτημένος κωδικός πρόσβασης έχει αντιγραφεί στο πρόχειρο.
+TEXT_STATE_MSG_READY                    = Κάντε κλικ στο κουμπί ΕΚΚΙΝΗΣΗ για να ξεκινήσετε την ανάκτηση.
+TEXT_STATE_MSG_WORKING                  = Ανάκτηση του κωδικού πρόσβασης...
+TEXT_STATE_MSG_PAUSING                  = Παύση
+TEXT_STATE_MSG_STOPPING                 = Ακύρωση...
+TEXT_STATE_MSG_FOUND                    = Ο κωδικός πρόσβασης των χαρακτήρων ${num1} ανακτήθηκε σε δευτερόλεπτα ${str1}. (${str2})
+TEXT_ASK_EXIT                           = Είστε βέβαιοι ότι θέλετε να πραγματοποιήσετε έξοδο;
+TEXT_COMBO_THREAD_AUTO                  = Αυτόματα
+
+[IDD_RECOVERY_SETTING]
+IDD_RECOVERY_SETTING                    = Ρυθμίσεις
+IDC_STATIC_MULTI_CORE                   = Επεξεργασία πολλαπλών πυρήνων
+IDC_STATIC_MULTI_CORE_DESC              = Καθορίστε τον αριθμό των νημάτων που θα χρησιμοποιηθούν για την ανάκτηση.[br]Συνιστάται να επιλέξετε "Αυτόματα" ή μικρότερο αριθμό, στη συνέχεια, τον αριθμό των πυρήνων CPU που είναι εγκατεστημένοι στο σύστημά σας.
+IDC_STATIC_PREP_POSTP                   = Πρόθεμα
+IDC_STATIC_PREP                         = Πρόθεμα
+IDC_STATIC_PREP_DESC                    = Προσθέστε το πρόθεμα στις αρχές των κωδικών πρόσβασης πριν από την επεξεργασία τους.
+IDC_STATIC_SPECIFY                      = Καθορισμός χαρακτήρων
+IDC_STATIC_ETC                          = Διάφορα
+IDC_CHK_USE_SIGNATURE_BY_EXT            = Χρησιμοποιήστε την επέκταση του αρχείου για ταχύτερη αποκατάσταση.
+
+[RECOVERY_SKIN]
+$STEP_1                                 = Άνοιγμα
+$STEP_2                                 = Έλεγχος
+$STEP_3                                 = Ρυθμίσεις
+$STEP_4                                 = Ανάκτηση
+$STEP_5                                 = Ολοκληρώθηκε
+$FILE_PATH_NAME                         = Θέση
+$BTN_NEXT_PAGE                          = Επόμενο >
+$BTN_PREV_PAGE                          = < Πίσω
+$BTN_OK                                 = Εντάξει
+$BUTTON_BUY_NOW                         = Αγοράστε το Bandizip Professional Edition
+$STATIC_OPEN_DESC                       = Κάντε κλικ στην επιλογή "Άνοιγμα αρχείου" για να περιηγηθείτε και να επιλέξετε κρυπτογραφημένο αρχείο. Μπορείτε επίσης να μεταφέρετε και να αποθέσετε το αρχείο απευθείας σε αυτό το παράθυρο διαλόγου.
+$STATIC_PRICE_DESC1                     = Οδηγός για την άδεια Bandizip
+$STATIC_PRICE_DESC2                     = Η αποκατάσταση κωδικού πρόσβασης είναι διαθέσιμη μόνο στο Bandizip Professional Edition. Ο κωδικός που πρέπει να ανακτηθεί δεν μπορεί να υπερβαίνει το μέγιστο μήκος των 4 χαρακτήρων στη Bandizip Standard Edition.
+$STATIC_FILELIST_DESC                   = Τα παρακάτω αρχεία περιέχονται σε αυτό το αρχείο. Ελέγξτε τα και κάντε κλικ στο κουμπί Επόμενο.
+$FILELIST_HEADER_NAME                   = Όνομα
+$FILELIST_HEADER_SIZE                   = Μέγεθος
+$FILELIST_HEADER_DATE                   = Ημερομηνία τροποποίησης
+$FILELIST_HEADER_METHOD                 = Μέθοδος συμπίεσης
+$FILELIST_HEADER_PWMETHOD               = Μέθοδος κρυπτογράφησης
+$STATIC_SYMBOL_DESC                     = Καθορίστε τους τύπους χαρακτήρων που χρησιμοποιούνται στον αναμενόμενο κωδικό πρόσβασης. <br>Εάν επιλέξετε περισσότερους ή όλους τους τύπους, η αποκατάσταση απαιτεί μεγαλύτερο χρονικό διάστημα.
+$STATIC_CUR_PASSWORD                    = Επεξεργασία
+$STATIC_CUR_PASSLEN                     = Μήκος
+$STATIC_ELAPSED                         = Χρόνος που παρήλθε
+$STATIC_SPEED                           = Ταχύτητα επεξεργασίας
+$STATIC_CLIPBOARD_DESC                  = Αντιγράψτε τον ανακτημένο κωδικό πρόσβασης στο πρόχειρο και επικολλήστε τον.
+$BUTTON_STOP                            = Άκυρο
+$BUTTON_START                           = ΕΚΚΙΝΗΣΗ
+$IDC_BTN_PAUSE                          = Παύση
+$IDC_BTN_UNPAUSE                        = Επανεκκίνηση
+$IDC_BTN_OPEN                           = Άνοιγμα
+$IDC_BTN_SETTING                        = Προχωρημένα
+$IDC_BTN_COPY2CLIPBOARD                 = Αντιγραφή
+$IDC_BTN_CANCEL_PAYMENT                 = Προετοιμασία
+$BUTTON_HELP_PAGE                       = Βοήθεια σχετικά με τον εκτιμώμενο χρόνο
+$CHECK_SYMBOL_NUM                       = Νούμερα (0123...9)
+$CHECK_SYMBOL_LOWERCASE                 = Πεζά (abcd...z)
+$CHECK_SYMBOL_UPPERCASE                 = Kεφαλαία (ABCD...Z)
+$CHECK_SYMBOL_SYMBOL                    = Ειδικοί χαρακτήρες (!@#$...)
+$CHECK_SYMBOL_SPACE                     = Space
+$CHECK_SYMBOL_ALL                       = Όλα
+$CHECK_SYMBOL_SPECIFIED                 = Καθορισμένοι χαρακτήρες
+$FOUNDED_PASSWORD                       = Ο ανακτημένος κωδικός πρόσβασης είναι...
+
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;
+; TEXT FOR EXPLORER SHELL CONTEXT MENU
+;
+[SHELL]
+TEXT_NEW_FOLDER                         = Νέος φάκελος
+
+TEXT_MENU_CREATE_NEW_FOLDER             = &Νέος φάκελος
+TEXT_MENU_SUB_MENU                      = &Bandizip
+TEXT_MENU_OPEN_ARCHIVE                  = Άνοιγμα με Bandizip...
+TEXT_MENU_TEST_ARCHIVE                  = Έλεγχος αρχείου συμπίεσης
+TEXT_MENU_LAUNCH_CMD                    = &Άνοιγμα γραμμής εντολών
+TEXT_MENU_LAUNCH_CMD_ADMIN              = Άνοιγμα γραμμής εντολών (Διαχειριστή)
+
+TEXT_MENU_ARCHIVE_EACHNAME              = Συμπίεση σε &κάθε όνομα αρχείου/φακέλου
+TEXT_MENU_ARCHIVE_EACHNAME_7Z           = "Συμπίεση σε "κάθε όνομα αρχείου/φακέλου.7z""
+TEXT_MENU_ARCHIVE_ZIP                   = "Συμπίεση σε "${str1}""
+TEXT_MENU_ARCHIVE_ZIP_AND_DEL           = Συμπίεση σε "${str1}" και διαγραφή
+TEXT_MENU_ARCHIVE_ZIP_AND_EMAIL         = Συμπίεση σε ${str1} και ema&il...
+TEXT_MENU_ARCHIVE_ZIPX                  = Συμπίεση σε ${str1}
+TEXT_MENU_ARCHIVE_EXE                   = "Συμπίεση σε "${str1}""
+TEXT_MENU_ARCHIVE_TAR                   = Συμπίεση σε ${str1}
+TEXT_MENU_ARCHIVE_TGZ                   = Συμπίεση σε ${str1}
+TEXT_MENU_ARCHIVE_LZH                   = "Συμπίεση σε "${str1}""
+TEXT_MENU_ARCHIVE_ISO                   = "Συμπίεση σε "${str1}""
+TEXT_MENU_ARCHIVE_7ZFMT                 = "Συμπίεση σε "${str1}""
+TEXT_MENU_ARCHIVE_GZ                    = "Συμπίεση σε "${str1}""
+TEXT_MENU_ARCHIVE_XZ                    = "Συμπίεση σε "${str1}""
+TEXT_MENU_ARCHIVE_EACHNAME_GZ           = "Συμπίεση σε κάθε "FileName.gz""
+TEXT_MENU_ARCHIVE_EACHNAME_XZ           = "Συμπίεση σε κάθε "FileName.xz""
+TEXT_MENU_ARCHIVE_RULE                  = Συμπίεση σε "${str1}" (&U)
+TEXT_MENU_ARCHIVE_POPUP                 = Προσθήκη σε αρχείο συμπίεσης (&Bandizip)...
+TEXT_MENU_ARCHIVE_POPUP_AS_ADMIN        = Συμπίεση ως διαχειριστής
+
+TEXT_MENU_EXTRACT_HERE                  = &Εξαγωγή εδώ
+TEXT_MENU_EXTRACT_AUTO                  = &Αυτόματη εξαγωγή
+TEXT_MENU_EXTRACT_AUTO_EACH             = &Αυτόματη εξαγωγή (καθενός)
+TEXT_MENU_EXTRACT_SUB                   = Εξαγωγή κάθε αρχείου σε άλλο φάκελο
+TEXT_MENU_EXTRACT_ARCHIVENAME           = Εξαγωγή σε ${str1}\
+TEXT_MENU_EXTRACT_DLG                   = Επιλέξτε διαδρομή εξαγωγής...
+TEXT_MENU_EXTRACT_DLG_AS_ADMIN          = Εξαγωγή ως διαχειριστής
+TEXT_MENU_EXTRACT_HERE_DEL              = Εξαγωγή εδώ και διαγραφή
+TEXT_MENU_EXTRACT_AUTO_DEL              = Εξαγωγή εδώ (έξυπνη) και διαγραφή
+TEXT_MENU_EXTRACT_AUTO_EACH_DEL         = Εξαγωγή καθενός εδώ (έξυπνη) και διαγραφή
+TEXT_MENU_EXTRACT_SUB_DEL               = Εξαγωγή σε ξεχωριστούς φακέλους και διαγραφή
+TEXT_MENU_EXTRACT_ARCHIVENAME_DEL       = Εξαγωγή στο ${str1}\ και διαγραφή
+
+TEXT_MENU_PREVIEW                       = Προεπισκόπιση αρχείου συμπίεσης
+TEXT_MENU_PREVIEW_BROKEN                = Το αρχείο είναι ή άγνωστου [br] τύπου ή κατεστραμμένο
+TEXT_MENU_PREVIEW_TIMEOUT               = Το αίτημα έχει λήξει.
+TEXT_MENU_PREVIEW_EMPTY                 = Κενό αρχείο συμπίεσης
+TEXT_MENU_PREVIEW_ENCRYPTED             = Το όνομα αρχείου είναι κρυπτογραφημένο
+TEXT_MENU_PREVIEW_DLLLOADFAILED         = Αδυναμία χρήσης προεπισκόπισης. [br][br]Επανεκκινήστε την εξερεύνηση των Windows ή [br]επανεκκινήστε τον υπολογιστή σας.
+TEXT_MENU_PREVIEW_CANTREADFILELIST      = Αδυναμία ανάγνωσης λίστας αρχείων
+
+TEXT_MENU_OPENING                       = Άνοιγμα...
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;
+; text for updater
+;
+[UPDATER]
+TEXT_UPDATER_TITLE                      = Ενημερώσεις Bandizip
+TEXT_UPDATER_TEXT1                      = Υπαρχουν έτοιμες ενημερώσεις του Bandizip
+TEXT_UPDATER_TEXT_DL                    = Θα θέλατε να τις κατεβάσετε τώρα;
+TEXT_UPDATER_BTN_UPDATE                 = Ενημέρωση
+TEXT_UPDATER_BTN_OK                     = Εντάξει
+TEXT_UPDATER_BTN_CANCEL                 = Άκυρο
+TEXT_UPDATER_DOWNLOAD_ERROR             = Η λήψη απέτυχε.
+TEXT_UPDATER_SETTING_UPDATE             = Ρυθμίσεις
+TEXT_UPDATER_SETTING_SKIPTHIS           = Παράλειψη αυτής της έκδοσης
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;
+; text for sfx
+;
+[SFX]
+STATIC_TARGET_PATH                      = Διαδρομή προορισμού:
+BTN_SELECT_FOLDER                       = Εξερεύνηση...
+BTN_EXTRACT                             = Εκκίνηση
+BTN_CLOSE                               = Κλείσιμο
+BTN_CANCEL                              = Άκυρο
+BTN_OPEN_FOLDER                         = Άνοιγμα
+CHK_OVERWRITE                           = Αντικατάσταση
+ERR_ERROR_OCCURRED                      = Σφάλμα
+ERR_INVALID_PASSWORD                    = Ανύπαρκτος κωδικός
+ASK_OVERWRITE                           = Υπάρχει ήδη το ίδιο αρχείο. Θέλετε να αντικατασταθεί;
+MSG_COMPLETED                           = Επιτυχής εξαγωγή!
+IDD_PASSWORD                            = Εισάγετε κωδικό
+IDC_STATIC_PASSWORD_MSG                 = Αυτό το αρχείο είναι κρυπτογραφημένο.
+IDC_BTN_SHOW_PASSWORD                   = Εμφάνιση κωδικού
+
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;
+; text for arkview
+;
+[ARKVIEW]
+TEXT_ERR_CANTEXTRACTFILE                = Δεν είναι δυνατή η εξαγωγή αρχείων.
+TEXT_ERR_CRC                            = Σφάλμα CRC.
+TEXT_ERR_INVALID_PASSWD                 = Ανύπαρκτος κωδικός.
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;
+; text for installer
+;
+[INSTALLER]
+$SETUP_TITLE                            = Εγκατάσταση ${APPNAME} ${APPVERSION}
+$UNINSTALL_TITLE                        = Απεγκατάσταση ${APPNAME} ${APPVERSION}
+$UNINSTALL_STATIC                       = Κάντε κλικ στο Απεγκατάσταση για να ξεκινήσετε την απεγκατασταση.
+
+$BTN_CLOSE                              = Κλείσιμο
+$BTN_CANCEL                             = Άκυρο
+$BTN_INSTALL                            = Συμφωνία και Εγκατάσταση
+$BTN_UNINSTALL                          = Απεγκατάσταση
+$BTN_OPEN_LICENSE                       = [Δείτε τη συμφωνία άδειας χρήσης]
+$BTN_HELP_LINK                          = [Βοήθεια]
+
+$TEXT_PATH                              = Φάκελος προορισμού
+$TEXT_INSTALL_STATIC                    = Εγκατάσταση...
+$TEXT_INST_COMPLETED                    = Η εγκατάσταση ολοκληρώθηκε
+$TEXT_INST_FAILED                       = Η εγκατάσταση απέτυχε
+$TEXT_UNINSTALLING                      = Απεγκατάσταση...
+
+$CHK_AUTO_REPORT                        = Αυτόματη αποστολή στατιστικών στοιχείων χρήσης και αναφορών σφαλμάτων.
+$EMAIL                                  = Διεύθυνση email
+$PRODUCT_KEY                            = Κλειδί προϊόντος
+
+ERR_CANT_CREATE_FOLDER                  = Απέτυχε η δημιουργία του φακέλου: ${str1}
+ERR_CANT_OPEN_FILE                      = Απέτυχε το άνοιγμα του αρχείου: ${str1}
+ERR_CANT_WRITE_FILE                     = Απέτυχε η εγγραφή του αρχείου: ${str1}
+ERR_BROKEN_ARCHIVE                      = Αυτό το συμπιεσμένο αρχείο είναι κατεστραμμένο: ${str1}
+ERR_CRC_ERROR                           = Σφάλμα CRC: ${str1}
+ERR_NOT_ENOUGH_MEM                      = Έλλειψη μνήμης: ${str1}
+
+MSG_FILE_OPEN_ERROR                     = Σφάλμα κατά το άνοιγμα αρχείου για εγγραφή:[br] «${str1}»[br]Κάντε κλικ στο κουμπί Ματαίωση για να σταματήσετε την εγκατάσταση,[br]Επανάληψη για να προσπαθήσετε πάλι ή Παράβλεψη για να παραλείψετε αυτό το αρχείο.
+MSG_SUCCESS                             = Η εγκατάσταση ολοκληρώθηκε
+MSG_DLL_REGISTERING                     = Εγγραφή επέκτασης Explorer
+MSG_DLL_UNREGISTERING                   = Διαγραφή επέκτασης Explorer
+MSG_ERROR                               = Προέκυψε ένα σφάλμα
+MSG_ERROR_REGISTER                      = Η εγγραφή απέτυχε
+MSG_SELECT_FOLDER                       = Επιλέξτε ένα φάκελο.
+MSG_STILLRUN_EXIT_PROGRAM               = Το Bandizip συνεχίζει να εκτελείται. Πρώτα κλείστε το πρόγραμμα.
+MSG_XP_IS_NOT_SUPPORTED                 = Αυτό το λογισμικό θα λειτουργεί κανονικά μόνο στα Windows Vista και μεταγενέστερα.
+MSG_NEED_ADMIN_PRIVILEGE                = Αυτό το πρόγραμμα μπορεί να εγκατασταθεί μόνο από ένα χρήστη με δικαιώματα διαχειριστή.[br][br]Οι απλοί χρήστες ενδέχεται να μην εγκαταστήσουν το πρόγραμμα σωστά.[br][br]Θέλετε να διακόψετε την εγκατάσταση;
+MSG_NEWVERSION_FOUND                    = Μια νέα έκδοση είναι διαθέσιμη. Θα θέλατε να την κατεβάσετε τώρα;
+SHORTCUT_LINK_DESCRIPTOIN               = Εκτέλεση ${APPNAME}
+MSG_ERR_X86_NOTSUPPORT                  = Αυτό το αρχείο εγκατάστασης δεν υποστηρίζει λειτουργικό σύστημα 32-bit (x86). Κάντε λήψη ενός νέου αρχείου εγκατάστασης στην ιστοσελίδα.
+MSG_ERR_ARM_NOTSUPPORT                  = Αυτό το αρχείο εγκατάστασης δεν υποστηρίζει CPU ARM64. Κάντε λήψη ενός νέου αρχείου εγκατάστασης στην ιστοσελίδα.
+ERR_INST_FAILED                         = Η εγκατάσταση απέτυχε. Παρακαλώ επανεκκινήστε τον υπολογιστή σας και προσπαθήστε ξανά
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;
+; text for online setup
+;
+[ONLINESETUP]
+TEXT_VERSION_CHECK_FAILED               = Ο έλεγχος έκδοσης απέτυχε. Κάντε λήψη του αρχείου εγκατάστασης χωρίς σύνδεση.
+TEXT_VERSION_CHECKING                   = Έλεγχος έκδοσης...
+TEXT_DOWNLOAD_FAILED                    = Η λήψη απέτυχε. Κάντε λήψη του αρχείου εγκατάστασης χωρίς σύνδεση.
+TEXT_DOWNLOAD_COMPLETED                 = Η λήψη ολοκληρώθηκε
+TEXT_HOMEPAGE                           = [Άνοιγμα ιστοσελίδας]
+TEXT_XP                                 = Η υποστήριξη των Windows XP τερματίστηκε.
+
+[IDD_TOOLBAR_SETTINGS]
+IDD_TOOLBAR_SETTINGS                    = Επιλογή πλήκτρων γραμμής εργαλείων
+
+
