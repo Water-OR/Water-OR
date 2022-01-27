@@ -1,5 +1,9 @@
 # Hello, I'm Water-OR
 
+# Warning:Please do not Fork this Repositories
+
+![头像](https://avatars.githubusercontent.com/u/91074242?s=400&u=5f9484d2bb27bfa61631530ee9510c42e4c2c3a7&v=4)
+
 ## 你好，我是[水或](https://space.bilibili.com/1217757764)
 
 [洛谷](https://www.luogu.com.cn)的一名[coder](https://www.luogu.com.cn/user/477761)
@@ -59,14 +63,74 @@ MC██年骨灰级玩家(正版)，热衷于RedStone和PVP(虽然PVP真的很�
 <br/>
 <br/>
 <br/>
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 ># 证明:我很逊
+>###### 来源[洛谷](luogu.com.cn)
 >见下图
 >
->![](https://luogu.wao3.cn/api/practice?id=477761&dark_mode=true)
->![](https://luogu.wao3.cn/api/guzhi?id=477761&scores=100,15,0,18,0&dark_mode=true)
+>![练习情况](https://luogu.wao3.cn/api/practice?id=477761&dark_mode=true)
+>![咕值](https://luogu.wao3.cn/api/guzhi?id=477761&scores=100,15,0,18,0&dark_mode=true)
 >### ∵Water=水 且 OR=或
 >### ∴Water_OR=[水或](https://space.bilibili.com/1217757764?from=search&seid=4990810313234115201&spm_id_from=333.337.0.0)≒水货
 ># 故我很逊!
 >## ~~证毕！~~
->来源[洛谷](luogu.com.cn)
+---
+# Something Great
+1.[A Dance Of [已编辑]](https://hive.indienova.com/farm/html5/adofai/index.html)
+
+2.[[数据删除]](http://scp-wiki-cn.wikidot.com/)
