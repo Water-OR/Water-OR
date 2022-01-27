@@ -1,5 +1,6 @@
 # Hello, I'm Water-OR
 
+# Warning:Please do not Fork this Repositories
 
 ## 你好，我是[水或](https://space.bilibili.com/1217757764)
 
@@ -26,9 +27,6 @@ MC██年骨灰级玩家(正版)，热衷于RedStone和PVP(虽然PVP真的很�
 <br/>
 <br/>
 <br/>
-
-# Warning:Please do not Fork this Repositories
-
 <br/>
 <br/>
 <br/>
