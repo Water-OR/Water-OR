@@ -62,16 +62,19 @@ pause > nul
 cls
 
 set /p aks=Break?(y/n):
-if /I "%aks%" == "y" (
+if /I "!aks!" == "y" (
   goto Ending
 )
+set aks=
 set /p aks=Auto push?(y/n):
-if /I "%aks%" == "n" (
+if /I "!aks!" == "n" (
+  set aks=
   cls
   echo Push By yourself :]
   set /p pushcommand=Command:git push
   goto pushnow
 ) else (
+  set ask=
   set pushcommand= -u origin main:main
   echo Auto pushing now.
   echo Command:git push%pushcommand%
