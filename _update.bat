@@ -1,39 +1,96 @@
 @echo off
 
-cls && echo git-add
-git add -A
-echo End of adding && pause > nul
+call:auto-add
+cls
+call:auto-commit
+cls
+call:auto-push
+cls
 
-cls && echo git-commit
+set /p talk=End<nul
+set talk=
+pause > nul && exit
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:auto-add
+git add -A
+set /p talk=End of adding<nul
+set talk=
+pause > nul && goto :eof
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:auto-commit
 
 :setcommit
-set /p ask=Your commit at now:
+set /p ask=Your commit:
 if "%ask%" == "" (
   cls
-  echo git-commit
-  echo Commit cannot be space
+  echo [31mError:Commit cannot be space![0m
   goto setcommit
 )
+
 set datewithoutweek=%date:~0,10%
-echo Your commit is %datewithoutweek:/=.%_%time:~0,5%:%ask%
+set commit_inp=%datewithoutweek:/=.%_%time:~0,5%_Update=%ask%
+echo Your commit is %commit_inp%
 
 set /p ask=Continue?(y/n):
-if /I "%ask%" EQU "n" (
+if /I "%ask%" == "n" (
   cls
-  echo git-commit
   echo set your commit again :]
   goto setcommit
 )
 
-set datewithoutweek=%date:~0,10%
-git commit -m "%datewithoutweek:/=.%-%time:~0,5%:%ask%"
+git commit -m "%commit_inp%"
 set datewithoutweek=
-
-echo End of committing && pause > nul
-
-cls && echo git-push
-start /HIGH /WAIT /B "auto-push" .\auto\auto-push.bat
-
-:EndinG
 set ask=
-exit && exit
+
+set /p talk=End of committing<nul
+set talk=
+pause > nul && goto :eof
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:auto-push
+set pushcommand= -u origin main:main
+echo Auto pushing now.
+echo Command:git push%pushcommand%
+goto pushnow
+
+:BadAction
+echo I'm sorry, but the pushing failed :[
+pause > nul
+cls
+
+set /p aks=Break?(y/n):
+if /I "%aks%" == "y" (
+  goto Ending
+)
+set /p ask=Auto push?(y/n):
+if /I "%aks%" == "n" (
+  cls
+  echo Push By yourself :]
+  set /p pushcommand=Command:git push
+  goto pushnow
+) else (
+  set pushcommand= -u origin main:main
+  echo Auto pushing now.
+  echo Command:git push%pushcommand%
+  goto pushnow
+)
+
+
+:GoodGame
+set /p talk=[41mThat's Amazine. Your Pushing is Successful![0m<nul
+set talk=
+pause > nul
+
+:Ending
+set aks=
+goto :eof
+
+:pushnow
+echo ------------------------------------------------------------
+git push%pushcommand%
+echo ------------------------------------------------------------
+if "%errorlevel%" == "0" ( goto GoodGame ) else ( goto BadAction )
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
