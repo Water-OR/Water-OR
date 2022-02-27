@@ -65,7 +65,7 @@ set /p aks=Break?(y/n):
 if /I "%aks%" == "y" (
   goto Ending
 )
-set /p ask=Auto push?(y/n):
+set /p aks=Auto push?(y/n):
 if /I "%aks%" == "n" (
   cls
   echo Push By yourself :]
