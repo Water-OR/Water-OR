@@ -67,7 +67,7 @@ if /I "!aks!" == "y" (
 )
 set aks=
 set /p aks=Auto push?(y/n):
-if /I "!aks!" == "n" (
+if /I "%aks%" == "n" (
   set aks=
   cls
   echo Push By yourself :]
