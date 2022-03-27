@@ -132,5 +132,4 @@ MC██年骨灰级玩家(正版)，热衷于RedStone和PVP(虽然PVP真的很�
 ---
 # Something Great
 1.[A Dance Of [已编辑]](https://hive.indienova.com/farm/html5/adofai/index.html)
-
 2.[[数据删除]](http://scp-wiki-cn.wikidot.com/)
