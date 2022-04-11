@@ -119,15 +119,4 @@ MC██年骨灰级玩家(正版)，热衷于RedStone和PVP(虽然PVP真的很�
 <br/>
 <br/>
 
-# 好东西
-1.[A Dance Of [已编辑]](https://hive.indienova.com/farm/html5/adofai/index.html)
-
-2.[[数据删除]](http://scp-wiki-cn.wikidot.com/)
-
-3.[Bandizip](http://www.bandisoft.com/)
-
-4.千万不要点[这里](https://konachan.net/)
-
-5.Git大文件[扩展](https://git-lfs.github.com/)
-
-6.Git的[实用](https://www.luogu.com.cn/paste/7azqdix4)van意
+点[这里](https:\\github.com\Water-OR\Water-OR\Self-Rea)
