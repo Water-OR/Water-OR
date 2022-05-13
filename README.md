@@ -1,5 +1,5 @@
 # Hello, I'm Water-OR
-<div style="text-align: center; color: #600;">
+<centre>
 <h1>
 <span>
 <span style="font-size:200%;">警告</span>
@@ -13,7 +13,7 @@
 <h1>
 你已经被警告过了，祝你好运~
 </h1>
-</div>
+</centre>
 
 
 <br/>

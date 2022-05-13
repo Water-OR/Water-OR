@@ -21,16 +21,19 @@ pause > nul && goto :eof
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 :auto-commit
 
+set dat=%date:~0,10%
+set dat=%dat:/=.%
+set tim=%time:~0,5%
+
 :setcommit
-set /p ask=Your commit:
+set /p ask=Your commit(%%dat%%=date=%dat%, %%tim%%=time=%tim%):
 if "%ask%" == "" (
   cls
   echo [31mError:Commit cannot be space![0m
   goto setcommit
 )
 
-set datewithoutweek=%date:~0,10%
-set commit_inp=%datewithoutweek:/=.%_%time:~0,5%_Update=%ask%
+set commit_inp=%ask%
 echo Your commit is %commit_inp%
 
 set /p ask=Continue?(y/n):
@@ -41,8 +44,9 @@ if /I "%ask%" == "n" (
 )
 
 git commit -m "%commit_inp%"
-set datewithoutweek=
+set dat=
 set ask=
+set tim=
 
 set /p talk=End of committing<nul
 set talk=
@@ -62,12 +66,12 @@ pause > nul
 cls
 
 set /p aks=Break?(y/n):
-if /I "!aks!" == "y" (
+if /I "%aks%" == "y" (
   goto Ending
 )
 set aks=
 set /p aks=Auto push?(y/n):
-if /I "%aks%" == "n" (
+if /I "!aks!" == "n" (
   set aks=
   cls
   echo Push By yourself :]
