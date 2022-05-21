@@ -1,18 +1,16 @@
-# 你好我是Water OR (当然WOR也是一样的)
+# 你好我是`Water OR` (当然`WOR`也是一样的)
 
-[洛谷](https://www.luogu.com.cn)的一名[coder](https://www.luogu.com.cn/user/477761)
+[我](https://www.luogu.com.cn/user/477761)是`洛谷`的一名coder
 
 我同时也是[SCP中文分布](http://scp-wiki-cn.wikidot.com/)的一名[数据删除]人员
 
-MC██年骨灰级玩家(正版)，热衷于RedStone和PVP(虽然PVP真的很菜)
+[MC](https://www.minecraft.net/zh-hans)██年骨灰级玩家(正版)，热衷于`RedStone`和`PVP`(虽然`PVP`真的很菜)
 
-同时我也是一名音游玩家，喜欢玩phigros, A Dance Of Fire And Ice。
+同时我也是一名音游玩家，喜欢玩`phigros`, `A Dance Of Fire And Ice`。
 
 ### ~~我是一个蒟蒻~~，不信你看下面
 
 ![练习](https://luogu.wao3.cn/api/practice?id=477761&dark_mode=true)
-
-![咕值](https://luogu.wao3.cn/api/guzhi?id=477761&scores=100,18,0,91,0&dark_mode=true)
 ---
 ### 我的账号
 [Github](https://github.com/Water-OR)

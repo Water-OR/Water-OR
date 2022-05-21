@@ -23,10 +23,9 @@ pause > nul && goto :eof
 
 set dat=%date:~0,10%
 set dat=%dat:/=.%
-set tim=%time:~0,5%
 
 :setcommit
-set /p ask=Your commit(%%dat%%=date=%dat%, %%tim%%=time=%tim%):
+set /p ask=Your commit(date=%dat%, time=%time:~0,5%):
 if "%ask%" == "" (
   cls
   echo [31mError:Commit cannot be space![0m
@@ -46,7 +45,6 @@ if /I "%ask%" == "n" (
 git commit -m "%commit_inp%"
 set dat=
 set ask=
-set tim=
 
 set /p talk=End of committing<nul
 set talk=
