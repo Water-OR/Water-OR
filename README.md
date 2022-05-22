@@ -1,19 +1,13 @@
 # Hello, I'm Water-OR
-<centre>
 <h1>
 <span>
-<span style="font-size:200%;">警告</span>
+<span style="font-size:200%;"><centre>警告</centre></span>
 </span>
 </h1>
-以下内容只有O5级人员能够查看<br>
-违者将进行A级以上的记忆清除<br>
-通过非法手段(除了洛谷以外)<br>
-严禁未经授权的人员进行访问<br>
-肇事者将被监控，定位并处理
+<centre>以下内容只有O5级人员能够查看<br>违者将进行A级以上的记忆清除<br>通过非法手段(除了洛谷以外)<br>严禁未经授权的人员进行访问<br>肇事者将被监控，定位并处理</centre>
 <h1>
-你已经被警告过了，祝你好运~
+<centre>你已经被警告过了，祝你好运~</centre>
 </h1>
-</centre>
 
 
 <br/>
